@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **13844** |
+| 📝 Total de prompts | **13842** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **miércoles, 27 de mayo de 2026, 9:03:13 UTC** |
+| 🔄 Última actualización | **miércoles, 27 de mayo de 2026, 13:00:41 UTC** |
 
 </div>
 
@@ -1573,108 +1573,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicación en redes sociales - Retrato callejero espontáneo con flash de smartphone
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Genera una fotografía callejera cruda y sin retoques con la iluminación intensa del flash de un smartphone, capturando a un sujeto caminando por un callejón urbano descuidado durante la noche.
-
-#### 📝 Prompt
-
-```
-{
-  "objective": "Crear una foto callejera espontánea al estilo smartphone de una mujer {argument name="ethnicity" default="coreana"} extremadamente bella y esbelta caminando con confianza por un estrecho callejón urbano durante la noche.",
-  "aspect_ratio": "3:4",
-  "composition": {
-    "style": "toma espontánea única",
-    "camera_type": "smartphone",
-    "angle": "ángulo ligeramente bajo, sujeto centrado caminando hacia la cámara",
-    "framing": "cuerpo completo, encuadre natural e imperfecto",
-    "aesthetic": "cruda, sin pulir, fotografía callejera"
-  },
-  "character": {
-    "ethnicity": "coreana",
-    "appearance": "extremadamente bella, figura esbelta, rasgos faciales suaves",
-    "hair": "cabello oscuro de largo medio a corto, ligeramente despeinado, movimiento natural",
-    "expression": "confiada, ligeramente juguetona, relajada",
-    "pose": "caminando hacia adelante a mitad de paso, zancada natural, brazos balanceándose ligeramente"
-  },
-  "wardrobe_and_accessories": {
-    "outfit": "{argument name="outfit" default="vestido corto ajustado de cuello bajo (color claro, ligeramente ceñido)"}",
-    "shoes": "botas hasta la rodilla",
-    "accessories": [
-      "gafas de sol con estilo",
-      "bolso de mano sostenido de forma relajada",
-      "joyería sutil"
-    ]
-  },
-  "environment": {
-    "setting": "{argument name="setting" default="estrecho callejón urbano de noche"}",
-    "details": [
-      "paredes descuidadas con grafitis",
-      "puertas metálicas y conductos de ventilación",
-      "iluminación cálida tenue desde arriba",
-      "sombras profundas y contraste",
-      "suelo ligeramente húmedo o con textura"
-    ]
-  },
-  "lighting": {
-    "type": "flash directo e intenso de smartphone",
-    "effect": "reflejos fuertes sobre el sujeto, fondo oscuro, alto contraste",
-    "realism": "reflejos de piel ligeramente sobreexpuestos típicos del flash de un teléfono"
-  },
-  "style": {
-    "rendering": "fotorrealista",
-    "texture": "grano visible, ruido, ligero desenfoque en áreas de movimiento",
-    "imperfections": [
-      "brillo de flash",
-      "ligera sobreexposición",
-      "iluminación desigual",
-      "desenfoque de movimiento menor"
-    ],
-    "color_grading": "natural con un ligero tono cálido"
-  },
-  "negative_prompt": [
-    "iluminación de estudio",
-    "composición perfecta",
-    "piel demasiado suave",
-    "sesión de moda de alta gama",
-    "aspecto cinematográfico",
-    "demasiado pulido",
-    "perfección simétrica"
-  ]
-}
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914445_btfhmn_HJRiI_HWAAAkpao.jpg" width="600" alt="Publicación en redes sociales - Retrato callejero espontáneo con flash de smartphone - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914439_cq3pob_HJRiMGlWgAAqgXl.jpg" width="600" alt="Publicación en redes sociales - Retrato callejero espontáneo con flash de smartphone - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Keskin](https://x.com/craftian_keskin)
-- **Fuente:** [Twitter Post](https://x.com/craftian_keskin/status/2059379220086735196)
-- **Publicado:** 26 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22659)**
-
----
-
-### No. 22: Publicación en redes sociales - Retrato editorial en el lago durante el verano
+### No. 21: Publicación en redes sociales - Retrato editorial en el lago durante el verano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1711,7 +1610,7 @@ Un prompt estructurado para una toma editorial con grano de película, que prese
 
 ---
 
-### No. 23: Publicación en redes sociales - POV realista de pantalla de MacBook
+### No. 22: Publicación en redes sociales - POV realista de pantalla de MacBook
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1751,7 +1650,7 @@ Un prompt técnico basado en JSON para generar una imagen hiperrealista de una p
 
 ---
 
-### No. 24: Publicación en redes sociales - Acuarela de acogedora estación de montaña en invierno
+### No. 23: Publicación en redes sociales - Acuarela de acogedora estación de montaña en invierno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1786,7 +1685,7 @@ Una ilustración vertical en acuarela que captura una acogedora estación de mon
 
 ---
 
-### No. 25: Publicación en redes sociales - Retrato de estilo callejero parisino
+### No. 24: Publicación en redes sociales - Retrato de estilo callejero parisino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1838,7 +1737,7 @@ Toma amateur sutilmente borrosa al estilo iPhone, retrato fotorrealista de una h
 
 ---
 
-### No. 26: Publicación en redes sociales - Foto cándida en jacuzzi de villa tropical
+### No. 25: Publicación en redes sociales - Foto cándida en jacuzzi de villa tropical
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1947,7 +1846,7 @@ Un prompt con temática veraniega para generar fotos cándidas realistas de dos 
 
 ---
 
-### No. 27: Publicación en redes sociales - Collage de selfie de pareja con minifiguras LEGO
+### No. 26: Publicación en redes sociales - Collage de selfie de pareja con minifiguras LEGO
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2002,7 +1901,7 @@ Estilo general: foto de smartphone ultra realista, collage cuadrado 2x2, bordes 
 
 ---
 
-### No. 28: Publicación en redes sociales - Retrato de moda estética con frutas de lujo
+### No. 27: Publicación en redes sociales - Retrato de moda estética con frutas de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2127,7 +2026,7 @@ Un prompt complejo para crear un editorial de moda de lujo donde el sujeto está
 
 ---
 
-### No. 29: Publicación en redes sociales - Lobby de hotel de lujo estilo raypunk
+### No. 28: Publicación en redes sociales - Lobby de hotel de lujo estilo raypunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2161,7 +2060,7 @@ Gran lobby de un {argument name="type" default="hotel de lujo"} en un estilo art
 
 ---
 
-### No. 30: Publicación en redes sociales - Retrato de estilo de vida en el Lago de Como
+### No. 29: Publicación en redes sociales - Retrato de estilo de vida en el Lago de Como
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2195,7 +2094,7 @@ Una fotografía de estilo de vida de alta calidad de una alegre joven {argument 
 
 ---
 
-### No. 31: Publicación en redes sociales - Instantánea realista de iPhone de una mujer estirándose
+### No. 30: Publicación en redes sociales - Instantánea realista de iPhone de una mujer estirándose
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2238,7 +2137,7 @@ Mismo rostro
 
 ---
 
-### No. 32: Publicación en redes sociales - Estética de dormitorio gamer retro
+### No. 31: Publicación en redes sociales - Estética de dormitorio gamer retro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2291,7 +2190,7 @@ Su habitación es un refugio nostálgico, decorado con una computadora Macintosh
 
 ---
 
-### No. 33: Publicación en redes sociales - Retrato de moda urbana
+### No. 32: Publicación en redes sociales - Retrato de moda urbana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2325,7 +2224,7 @@ Retrato fotorrealista de una hermosa mujer joven de {argument name="ethnicity" d
 
 ---
 
-### No. 34: Publicación en redes sociales - Retrato floral en un sereno acantilado costero
+### No. 33: Publicación en redes sociales - Retrato floral en un sereno acantilado costero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2377,7 +2276,7 @@ Un retrato sereno de una {argument name="subject" default="mujer"} descansando c
 
 ---
 
-### No. 35: Publicación en redes sociales - Foto de viaje en un parque de cuento de hadas
+### No. 34: Publicación en redes sociales - Foto de viaje en un parque de cuento de hadas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2408,6 +2307,40 @@ Una foto de viaje de cuerpo completo y alta calidad de una mujer elegante de pie
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22487)**
+
+---
+
+### No. 35: Publicación en redes sociales - Retrato cenital inspirado en los años 90
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una nostálgica toma cenital de una joven de cabello rubio sentada sobre una alfombra, que captura la estética de los años 90 con una iluminación natural suave y gafas redondas.
+
+#### 📝 Prompt
+
+```
+una toma cenital en ángulo picado de {argument name="subject" default="una joven de cabello largo, rubio y ondulado con flequillo tipo cortina"} sentada sobre {argument name="surface" default="un suelo de moqueta beige"}. Lleva puestas {argument name="accessories" default="gafas graduadas redondas con montura transparente"} y mira directamente a la cámara con una sonrisa sutil y amable. Su atuendo consiste en una sencilla camiseta blanca de manga corta con un delicado borde de encaje en el cuello, pantalones cortos de mezclilla holgados y botas de cuero marrón oscuro hasta la rodilla. La iluminación es suave y natural, creando una estética nostálgica, informal y espontánea inspirada en los años 90.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779780733417_lz7ch1_HJKLO1WboAA17y8.jpg" width="600" alt="Publicación en redes sociales - Retrato cenital inspirado en los años 90 - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Lore](https://x.com/l_w_lorenzen)
+- **Fuente:** [Twitter Post](https://x.com/l_w_lorenzen/status/2058861077044269557)
+- **Publicado:** 25 de mayo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22473)**
 
 ---
 
@@ -3949,47 +3882,7 @@ La imagen final debe transmitir la sensación de un artista solitario apoyado co
 
 ---
 
-### No. 73: Cómic / Guion gráfico - Hombre futurista brutalista con caimán
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un potente plano cinematográfico en ángulo contrapicado de un hombre musculoso con gabardina de cuero y un caimán como mascota en un entorno brutalista.
-
-#### 📝 Prompt
-
-```
-Utiliza exactamente el mismo rostro de la imagen de referencia, no cambies los rasgos faciales y genera un plano contrapicado fotorrealista que muestre a un {argument name="subject description" default="hombre alto, musculoso e imponente"} en una pose majestuosa y dominante. Está de pie sobre un suelo de hormigón rugoso frente a {argument name="setting" default="columnas masivas de estilo brutalista"}, creando una atmósfera cinematográfica poderosa. Detalles del personaje principal: Vestuario: Viste una {argument name="outfit" default="gabardina larga de cuero negro mate con paneles voluminosos de color rojo sangre brillante"} en el pecho, antebrazos y piernas. Sus hombros están resaltados por placas de armadura de metal pulido altamente detalladas, lo que le otorga una estética futurista y agresiva. Apariencia: La gabardina está parcialmente abierta, revelando un torso desnudo con una textura de piel realista y una musculatura bien definida. Lleva varias cadenas gruesas de plata maciza alrededor del cuello. En el rostro, lleva gafas plateadas futuristas con efecto espejo. Accesorio: En una mano, sostiene una pesada cadena de metal pulido, utilizada como correa. Animal: Sujeto por la cadena, un {argument name="companion" default="caimán enorme"} se encuentra a su lado, equipado con un arnés de combate negro. La textura de sus escamas está renderizada con el máximo detalle, mostrando relieve, humedad y un realismo extremo. Su cabeza está ligeramente levantada y su boca entreabierta, transmitiendo tensión y poder salvaje. Parámetros técnicos y paleta visual: Paleta de colores: Dominada por tonos grises apagados y negro profundo, con fuertes acentos en rojo sangre brillante y reflejos metálicos fríos. La combinación transmite una sensación oscura, brutal y sofisticada. Iluminación y texturas: Luz natural suave de un día nublado, resaltando cada superficie con extrema precisión. Pequeñas grietas en el hormigón,
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922950_qzoqc1_HJNtZcrW0AAGzXz.jpg" width="600" alt="Cómic / Guion gráfico - Hombre futurista brutalista con caimán - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922991_20gaq6_HJNtZnfWUAEkmEU.jpg" width="600" alt="Cómic / Guion gráfico - Hombre futurista brutalista con caimán - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **Fuente:** [Twitter Post](https://x.com/Ozayrr_irl/status/2059109745072464176)
-- **Publicado:** 26 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22674)**
-
----
-
-### No. 74: Cómic / Guion gráfico - Vaquero solitario en una noche brumosa bajo la luz de la luna
+### No. 73: Cómic / Guion gráfico - Vaquero solitario en una noche brumosa bajo la luz de la luna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4023,7 +3916,7 @@ Un {argument name="subject" default="vaquero"} solitario silueteado contra un {a
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Revista y biblioteca de moda cósmica
+### No. 74: Cómic / Guion gráfico - Revista y biblioteca de moda cósmica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4066,7 +3959,7 @@ Una acogedora ilustración de anime estilo acuarela de una familia explorando un
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Hoja de diseño de personaje de guerrero anime
+### No. 75: Cómic / Guion gráfico - Hoja de diseño de personaje de guerrero anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4100,7 +3993,7 @@ Una hoja de personaje cinematográfica estilizada inspirada en el anime, ambient
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Hoja de entrenamiento y vínculo entre entrenador Pokémon y su compañero
+### No. 76: Cómic / Guion gráfico - Hoja de entrenamiento y vínculo entre entrenador Pokémon y su compañero
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4136,7 +4029,7 @@ Una conmovedora hoja de ilustración estilo anime de la vida cotidiana que repre
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Retrato de anime con personajes chibi
+### No. 77: Cómic / Guion gráfico - Retrato de anime con personajes chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4170,7 +4063,7 @@ Retrato nocturno de estilo anime cinematográfico ultrarrealista en un patio osc
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Pareja de cristal caprichosa bajo la nieve invernal
+### No. 78: Cómic / Guion gráfico - Pareja de cristal caprichosa bajo la nieve invernal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4257,7 +4150,7 @@ Un prompt altamente artístico para una escena callejera europea de noche, con p
 
 ---
 
-### No. 80: Cómic / Guion gráfico - Fusión de terror cyberpunk
+### No. 79: Cómic / Guion gráfico - Fusión de terror cyberpunk
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4291,7 +4184,7 @@ Un prompt compuesto que combina la estética de torres cyberpunk con elementos c
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Ilustración del ganador de carreras de caballos
+### No. 80: Cómic / Guion gráfico - Ilustración del ganador de carreras de caballos
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4325,7 +4218,7 @@ Visualización de la línea de meta de una carrera de caballos con un caballo y 
 
 ---
 
-### No. 82: Cómic / Guion gráfico - Escena del incendio en el Yoshiwara Hall
+### No. 81: Cómic / Guion gráfico - Escena del incendio en el Yoshiwara Hall
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4359,7 +4252,7 @@ Una escena de {argument name="location" default="Yoshiwara Hall"} en llamas con 
 
 ---
 
-### No. 83: Cómic / Guion gráfico - Boceto de ilustración de moda estilo Vogue
+### No. 82: Cómic / Guion gráfico - Boceto de ilustración de moda estilo Vogue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4393,7 +4286,7 @@ Convierte esta foto en una {argument name="style" default="ilustración de moda 
 
 ---
 
-### No. 84: Cómic / Guion gráfico - Carreras de caballos al estilo manga
+### No. 83: Cómic / Guion gráfico - Carreras de caballos al estilo manga
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4427,7 +4320,7 @@ Genera imágenes de carreras de caballos inspiradas en el manga Kaze no Sylphid 
 
 ---
 
-### No. 85: Cómic / Guion gráfico - Retrato de rayo de sol dorado
+### No. 84: Cómic / Guion gráfico - Retrato de rayo de sol dorado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4461,7 +4354,7 @@ Un retrato cinematográfico en primer plano de una {argument name="subject" defa
 
 ---
 
-### No. 86: Cómic / Guion gráfico - Ilustración invernal de un pueblo japonés nevado
+### No. 85: Cómic / Guion gráfico - Ilustración invernal de un pueblo japonés nevado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4513,7 +4406,7 @@ Un plano medio de una serena {argument name="subject" default="mujer caucásica 
 
 ---
 
-### No. 87: Cómic / Guion gráfico - Intercambio entre astronauta marciano y alienígena
+### No. 86: Cómic / Guion gráfico - Intercambio entre astronauta marciano y alienígena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4553,7 +4446,7 @@ Una chica con un traje espacial moderno de color blanco completamente cerrado y 
 
 ---
 
-### No. 88: Cómic / Guion gráfico - Ópera espacial cósmica: El Emperador Oscuro
+### No. 87: Cómic / Guion gráfico - Ópera espacial cósmica: El Emperador Oscuro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4583,6 +4476,46 @@ Realismo de ópera espacial cinematográfica, calidad de obra maestra. Posición
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22069)**
+
+---
+
+### No. 88: Cómic / Guion gráfico - Boceto de personaje minimalista Aero & Chic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Una hoja de boceto de retrato de personaje limpia y minimalista con un efecto de acuarela, que incluye vistas de perfil y frontal con cuadros de detalles de textura y notas de estilo.
+
+#### 📝 Prompt
+
+```
+Una hoja de boceto de retrato de personaje minimalista en un estilo limpio "{argument name="style" default="Aero & Chic"}". La obra presenta dos personajes: una vista de perfil de una mujer con cabello oscuro de largo medio y una vista frontal de un hombre con el cabello oscuro bien peinado con raya, ambos usando gafas redondas de montura metálica, suéteres de punto con textura acogedora y sosteniendo una taza de café caliente. El arte utiliza un trazo preciso y delicado combinado con un suave efecto de acuarela y una estética nostálgica. Cada retrato incluye cuadros de detalles en primer plano aislados para la textura del suéter, las gafas y las manos sosteniendo la taza. El diseño se presenta sobre un fondo limpio con un desglose de paleta de colores suaves (que incorpora tonos tierra como verde salvia, azul mezclilla, marrones madera cálidos y beiges crema) junto con un cuadro de descripción de "Notas de estilo", capturando un ambiente minimalista, moderno y tranquilo.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884004_qssx85_HI9683fW4AAdzz4.jpg" width="600" alt="Cómic / Guion gráfico - Boceto de personaje minimalista Aero & Chic - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884058_gcblub_HI9686GXcAAxpU3.jpg" width="600" alt="Cómic / Guion gráfico - Boceto de personaje minimalista Aero & Chic - Image 2">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Minahil](https://x.com/Minahil42298354)
+- **Fuente:** [Twitter Post](https://x.com/Minahil42298354/status/2057998744730165733)
+- **Publicado:** 23 de mayo de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=22067)**
 
 ---
 
@@ -5941,7 +5874,7 @@ organicismo atmosférico inspirado en la naturaleza: Un anuncio de producto atmo
 
 <div align="center">
 
-### 🎯 13724 prompts más no mostrados aquí
+### 🎯 13722 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6004,6 +5937,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-27T09:03:13.186Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-05-27T13:00:41.205Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **13844** |
+| 📝 कुल प्रॉम्पट्स | **13842** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **बुधवार, 27 मई 2026 को 9:03:07 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **बुधवार, 27 मई 2026 को 1:00:35 pm UTC बजे** |
 
 </div>
 
@@ -1573,108 +1573,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - स्मार्टफोन से ली गई कैंडिड स्ट्रीट फ्लैश पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-रात के समय एक गंदी शहरी गली में चलते हुए व्यक्ति की तस्वीर को कठोर स्मार्टफोन फ्लैश लाइटिंग के साथ कैप्चर करती है, जो एक कच्ची और अनपॉलिश स्ट्रीट फोटो तैयार करती है।
-
-#### 📝 प्रॉम्पट
-
-```
-{
-  "objective": "रात के समय एक संकरी शहरी गली में आत्मविश्वास के साथ चलती हुई एक बेहद खूबसूरत छरहरी {argument name="ethnicity" default="Korean"} महिला की कैंडिड, स्मार्टफोन-शैली की स्ट्रीट फोटो बनाएं।",
-  "aspect_ratio": "3:4",
-  "composition": {
-    "style": "सिंगल कैंडिड शॉट",
-    "camera_type": "स्मार्टफोन",
-    "angle": "थोड़ा नीचे का कोण, कैमरे की ओर आती हुई केंद्रित सब्जेक्ट",
-    "framing": "फुल बॉडी, प्राकृतिक और अपूर्ण फ्रेमिंग",
-    "aesthetic": "रॉ (raw), अनपॉलिश, स्ट्रीट फोटोग्राफी"
-  },
-  "character": {
-    "ethnicity": "Korean",
-    "appearance": "बेहद खूबसूरत, छरहरी काया, कोमल चेहरे के फीचर्स",
-    "hair": "छोटे से मध्यम लंबाई के काले बाल, थोड़े बिखरे हुए, प्राकृतिक मूवमेंट",
-    "expression": "आत्मविश्वासी, थोड़ी चंचल, रिलैक्स्ड",
-    "pose": "आगे की ओर चलते हुए, प्राकृतिक चाल, हाथ हल्के से झूलते हुए"
-  },
-  "wardrobe_and_accessories": {
-    "outfit": "{argument name="outfit" default="लो-नेक फिटेड मिनी ड्रेस (हल्के रंग की, थोड़ी टाइट)"}",
-    "shoes": "घुटनों तक ऊंचे बूट",
-    "accessories": [
-      "स्टाइलिश धूप का चश्मा",
-      "ढीले हाथ में पकड़ा हुआ हैंडबैग",
-      "हल्की ज्वेलरी"
-    ]
-  },
-  "environment": {
-    "setting": "{argument name="setting" default="रात में संकरी शहरी गली"}",
-    "details": [
-      "ग्राफीटी वाली गंदी दीवारें",
-      "धातु के दरवाजे और वेंट",
-      "ऊपर से आती हल्की गर्म रोशनी",
-      "गहरी छाया और कंट्रास्ट",
-      "थोड़ी गीली या टेक्सचर्ड जमीन"
-    ]
-  },
-  "lighting": {
-    "type": "कठोर सीधी स्मार्टफोन फ्लैश",
-    "effect": "सब्जेक्ट पर मजबूत हाइलाइट्स, डार्क बैकग्राउंड फॉलऑफ, हाई कंट्रास्ट",
-    "realism": "फोन फ्लैश की विशिष्ट थोड़ी ओवरएक्सपोज़्ड स्किन हाइलाइट्स"
-  },
-  "style": {
-    "rendering": "फोटोरियलिस्टिक",
-    "texture": "दृश्यमान ग्रेन, नॉइज़, मोशन वाले हिस्सों में हल्का धुंधलापन",
-    "imperfections": [
-      "फ्लैश ग्लेयर",
-      "हल्का ओवरएक्सपोज़र",
-      "असमान लाइटिंग",
-      "मामूली मोशन ब्लर"
-    ],
-    "color_grading": "हल्के गर्म टिंट के साथ प्राकृतिक"
-  },
-  "negative_prompt": [
-    "स्टूडियो लाइटिंग",
-    "परफेक्ट कंपोजिशन",
-    "अत्यधिक चिकनी त्वचा",
-    "हाई-एंड फैशन शूट",
-    "सिनेमैटिक लुक",
-    "ओवर-पॉलिश",
-    "सिमेट्रिकल परफेक्शन"
-  ]
-}
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914445_btfhmn_HJRiI_HWAAAkpao.jpg" width="600" alt="सोशल मीडिया पोस्ट - स्मार्टफोन से ली गई कैंडिड स्ट्रीट फ्लैश पोर्ट्रेट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914439_cq3pob_HJRiMGlWgAAqgXl.jpg" width="600" alt="सोशल मीडिया पोस्ट - स्मार्टफोन से ली गई कैंडिड स्ट्रीट फ्लैश पोर्ट्रेट - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Keskin](https://x.com/craftian_keskin)
-- **स्रोत:** [Twitter Post](https://x.com/craftian_keskin/status/2059379220086735196)
-- **प्रकाशित:** 26 मई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22659)**
-
----
-
-### No. 22: सोशल मीडिया पोस्ट - समर लेक एडिटोरियल पोर्ट्रेट
+### No. 21: सोशल मीडिया पोस्ट - समर लेक एडिटोरियल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1711,7 +1610,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - यथार्थवादी MacBook स्क्रीन POV
+### No. 22: सोशल मीडिया पोस्ट - यथार्थवादी MacBook स्क्रीन POV
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1751,7 +1650,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - आरामदायक विंटर हिल स्टेशन वॉटरकलर
+### No. 23: सोशल मीडिया पोस्ट - आरामदायक विंटर हिल स्टेशन वॉटरकलर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1786,7 +1685,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - पेरिसियन स्ट्रीट स्टाइल पोर्ट्रेट
+### No. 24: सोशल मीडिया पोस्ट - पेरिसियन स्ट्रीट स्टाइल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1838,7 +1737,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - ट्रॉपिकल विला जकूज़ी कैंडिड
+### No. 25: सोशल मीडिया पोस्ट - ट्रॉपिकल विला जकूज़ी कैंडिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1947,7 +1846,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - LEGO Minifigure कपल सेल्फी कोलाज
+### No. 26: सोशल मीडिया पोस्ट - LEGO Minifigure कपल सेल्फी कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2002,7 +1901,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: सोशल मीडिया पोस्ट - लक्ज़री फ्रूट एस्थेटिक फैशन पोर्ट्रेट
+### No. 27: सोशल मीडिया पोस्ट - लक्ज़री फ्रूट एस्थेटिक फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2127,7 +2026,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: सोशल मीडिया पोस्ट - लक्ज़री होटल रेपंक लॉबी
+### No. 28: सोशल मीडिया पोस्ट - लक्ज़री होटल रेपंक लॉबी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2161,7 +2060,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: सोशल मीडिया पोस्ट - लेक कोमो लाइफस्टाइल पोर्ट्रेट
+### No. 29: सोशल मीडिया पोस्ट - लेक कोमो लाइफस्टाइल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2195,7 +2094,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: सोशल मीडिया पोस्ट - iPhone से ली गई महिला की स्ट्रेचिंग करती हुई यथार्थवादी तस्वीर
+### No. 30: सोशल मीडिया पोस्ट - iPhone से ली गई महिला की स्ट्रेचिंग करती हुई यथार्थवादी तस्वीर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2238,7 +2137,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 32: सोशल मीडिया पोस्ट - रेट्रो गेमिंग बेडरूम एस्थेटिक्स
+### No. 31: सोशल मीडिया पोस्ट - रेट्रो गेमिंग बेडरूम एस्थेटिक्स
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2291,7 +2190,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 33: सोशल मीडिया पोस्ट - अर्बन स्ट्रीटवियर पोर्ट्रेट
+### No. 32: सोशल मीडिया पोस्ट - अर्बन स्ट्रीटवियर पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2325,7 +2224,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 34: सोशल मीडिया पोस्ट - शांत तटीय चट्टान पर पुष्प पोर्ट्रेट
+### No. 33: सोशल मीडिया पोस्ट - शांत तटीय चट्टान पर पुष्प पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2377,7 +2276,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 35: सोशल मीडिया पोस्ट - फेयरी-टेल पार्क की ट्रैवल फोटो
+### No. 34: सोशल मीडिया पोस्ट - फेयरी-टेल पार्क की ट्रैवल फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2408,6 +2307,40 @@ https://t.co/QxbYpfFVj6
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22487)**
+
+---
+
+### No. 35: सोशल मीडिया पोस्ट - 90 के दशक से प्रेरित ओवरहेड पोर्ट्रेट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+कालीन वाले फर्श पर बैठी सुनहरे बालों वाली एक युवती का पुरानी यादों को ताजा करने वाला ओवरहेड शॉट, जिसमें सॉफ्ट नेचुरल लाइटिंग और गोल चश्मे के साथ 90 के दशक का सौंदर्य झलकता है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक {argument name="subject" default="लंबे, घुंघराले सुनहरे बालों और सॉफ्ट कर्टेन बैंग्स वाली युवती"} का ओवरहेड, हाई-एंगल शॉट, जो एक {argument name="surface" default="बेज रंग के कालीन वाले फर्श"} पर बैठी है। उसने {argument name="accessories" default="साफ फ्रेम वाले, गोल प्रिसक्रिप्शन चश्मे"} पहने हैं और वह एक सूक्ष्म, सौम्य मुस्कान के साथ सीधे कैमरे की ओर देख रही है। उसके पहनावे में नेकलाइन के चारों ओर नाजुक लेस ट्रिम वाली एक साधारण सफेद शॉर्ट-स्लीव टी-शर्ट, ढीले-ढाले बैगी डेनिम शॉर्ट्स और घुटने तक ऊंचे गहरे भूरे रंग के लेदर बूट्स शामिल हैं। लाइटिंग सॉफ्ट और नेचुरल है, जो 90 के दशक से प्रेरित एक कैजुअल, कैंडिड और पुरानी यादों वाली सौंदर्यपूर्ण छवि बनाती है।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779780733417_lz7ch1_HJKLO1WboAA17y8.jpg" width="600" alt="सोशल मीडिया पोस्ट - 90 के दशक से प्रेरित ओवरहेड पोर्ट्रेट - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Lore](https://x.com/l_w_lorenzen)
+- **स्रोत:** [Twitter Post](https://x.com/l_w_lorenzen/status/2058861077044269557)
+- **प्रकाशित:** 25 मई 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22473)**
 
 ---
 
@@ -3949,47 +3882,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 73: कॉमिक / स्टोरीबोर्ड - ब्रूटलिस्ट फ्यूचुरिस्टिक मैन विद एलीगेटर
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-ब्रूटलिस्ट सेटिंग में पालतू मगरमच्छ के साथ लेदर ट्रेंच कोट पहने एक मस्कुलर व्यक्ति का शक्तिशाली सिनेमैटिक लो-एंगल शॉट।
-
-#### 📝 प्रॉम्पट
-
-```
-रेफरेंस इमेज से बिल्कुल वही चेहरा इस्तेमाल करें, चेहरे के फीचर्स न बदलें और एक फोटो-रियलिस्टिक लो-एंगल शॉट जनरेट करें जिसमें {argument name="subject description" default="लंबे, मस्कुलर, प्रभावशाली व्यक्ति"} को एक भव्य और दबंग मुद्रा में दिखाया गया हो। वह {argument name="setting" default="विशाल ब्रूटलिस्ट-स्टाइल कॉलम"} के सामने खुरदरे कंक्रीट के फर्श पर खड़ा है, जो एक शक्तिशाली सिनेमैटिक माहौल बनाता है। मुख्य पात्र का विवरण: पहनावा: उसने {argument name="outfit" default="छाती, अग्रबाहुओं और पैरों पर भारी चमकदार ब्लड-रेड पैनल के साथ लंबा मैट ब्लैक लेदर ट्रेंच कोट"} पहना है। उसके कंधे अत्यधिक विस्तृत, पॉलिश की हुई मेटल आर्मर प्लेट्स से हाइलाइट किए गए हैं, जो एक फ्यूचुरिस्टिक और आक्रामक सौंदर्य प्रदान करते हैं। दिखावट: कोट आंशिक रूप से खुला है, जिससे यथार्थवादी त्वचा बनावट और सुगठित मांसपेशियों वाला नग्न धड़ दिखाई दे रहा है। उसने अपनी गर्दन के चारों ओर कई मोटी ठोस चांदी की चेन पहनी हैं। चेहरे पर, उसने चांदी के फ्यूचुरिस्टिक मिरर-इफेक्ट वाले चश्मे पहने हैं। एक्सेसरी: एक हाथ में, उसने एक भारी पॉलिश की हुई मेटल चेन पकड़ी है, जिसका उपयोग पट्टे की तरह किया गया है। जानवर: चेन से बंधा, एक {argument name="companion" default="विशाल मगरमच्छ"} उसके बगल में खड़ा है, जिसने ब्लैक कॉम्बैट हार्नेस पहना है। इसकी स्केल बनावट को अधिकतम विवरण में रेंडर किया गया है, जो उभार, नमी और अत्यधिक यथार्थवाद को दर्शाता है। इसका सिर थोड़ा ऊपर उठा हुआ है और मुंह आधा खुला है, जो तनाव और जंगली शक्ति को दर्शाता है। तकनीकी पैरामीटर और विजुअल पैलेट: कलर पैलेट: म्यूट ग्रे टोन और गहरे काले रंग का प्रभुत्व, जिसमें गहरे ब्लड-रेड एक्सेंट और ठंडे मैटेलिक रिफ्लेक्शन हैं। यह संयोजन एक गहरा, क्रूर और परिष्कृत अहसास देता है। लाइटिंग और टेक्सचर: बादल छाए रहने वाले दिन की हल्की प्राकृतिक रोशनी, जो हर सतह को अत्यधिक सटीकता के साथ हाइलाइट करती है। कंक्रीट में छोटी दरारें,
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922950_qzoqc1_HJNtZcrW0AAGzXz.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - ब्रूटलिस्ट फ्यूचुरिस्टिक मैन विद एलीगेटर - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922991_20gaq6_HJNtZnfWUAEkmEU.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - ब्रूटलिस्ट फ्यूचुरिस्टिक मैन विद एलीगेटर - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **स्रोत:** [Twitter Post](https://x.com/Ozayrr_irl/status/2059109745072464176)
-- **प्रकाशित:** 26 मई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22674)**
-
----
-
-### No. 74: कॉमिक / स्टोरीबोर्ड - चांदनी रात में धुंध के बीच अकेला काउबॉय
+### No. 73: कॉमिक / स्टोरीबोर्ड - चांदनी रात में धुंध के बीच अकेला काउबॉय
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4023,7 +3916,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 75: कॉमिक / स्टोरीबोर्ड - कॉस्मिक फैशन मैगज़ीन और लाइब्रेरी
+### No. 74: कॉमिक / स्टोरीबोर्ड - कॉस्मिक फैशन मैगज़ीन और लाइब्रेरी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4066,7 +3959,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 76: कॉमिक / स्टोरीबोर्ड - एनीमे वॉरियर कैरेक्टर डिज़ाइन शीट
+### No. 75: कॉमिक / स्टोरीबोर्ड - एनीमे वॉरियर कैरेक्टर डिज़ाइन शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4100,7 +3993,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 77: कॉमिक / स्टोरीबोर्ड - एनीमे ट्रेनर और पोकेमॉन बॉन्डिंग शीट
+### No. 76: कॉमिक / स्टोरीबोर्ड - एनीमे ट्रेनर और पोकेमॉन बॉन्डिंग शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4136,7 +4029,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 78: कॉमिक / स्टोरीबोर्ड - चिबी पात्रों के साथ एनीमे पोर्ट्रेट
+### No. 77: कॉमिक / स्टोरीबोर्ड - चिबी पात्रों के साथ एनीमे पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4170,7 +4063,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 79: कॉमिक / स्टोरीबोर्ड - सर्दियों की बर्फबारी में सनकी कांच का जोड़ा
+### No. 78: कॉमिक / स्टोरीबोर्ड - सर्दियों की बर्फबारी में सनकी कांच का जोड़ा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4257,7 +4150,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 80: कॉमिक / स्टोरीबोर्ड - साइबरपंक हॉरर मैशअप
+### No. 79: कॉमिक / स्टोरीबोर्ड - साइबरपंक हॉरर मैशअप
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4291,7 +4184,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 81: कॉमिक / स्टोरीबोर्ड - घुड़दौड़ विजेता का चित्रण
+### No. 80: कॉमिक / स्टोरीबोर्ड - घुड़दौड़ विजेता का चित्रण
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4325,7 +4218,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 82: कॉमिक / स्टोरीबोर्ड - योशिवारा हॉल में आग का दृश्य
+### No. 81: कॉमिक / स्टोरीबोर्ड - योशिवारा हॉल में आग का दृश्य
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4359,7 +4252,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 83: कॉमिक / स्टोरीबोर्ड - Vogue फैशन इलस्ट्रेशन स्केच
+### No. 82: कॉमिक / स्टोरीबोर्ड - Vogue फैशन इलस्ट्रेशन स्केच
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4393,7 +4286,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 84: कॉमिक / स्टोरीबोर्ड - मंगा से प्रेरित घुड़दौड़
+### No. 83: कॉमिक / स्टोरीबोर्ड - मंगा से प्रेरित घुड़दौड़
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4427,7 +4320,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 85: कॉमिक / स्टोरीबोर्ड - सुनहरी किरणों वाला पोर्ट्रेट
+### No. 84: कॉमिक / स्टोरीबोर्ड - सुनहरी किरणों वाला पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4461,7 +4354,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 86: कॉमिक / स्टोरीबोर्ड - बर्फ से ढके जापानी गाँव का शीतकालीन चित्रण
+### No. 85: कॉमिक / स्टोरीबोर्ड - बर्फ से ढके जापानी गाँव का शीतकालीन चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4513,7 +4406,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 87: कॉमिक / स्टोरीबोर्ड - मंगल ग्रह पर अंतरिक्ष यात्री और एलियन का आदान-प्रदान
+### No. 86: कॉमिक / स्टोरीबोर्ड - मंगल ग्रह पर अंतरिक्ष यात्री और एलियन का आदान-प्रदान
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4553,7 +4446,7 @@ Re : No.9 Crimson Vindicator
 
 ---
 
-### No. 88: कॉमिक / स्टोरीबोर्ड - कॉस्मिक स्पेस ओपेरा डार्क एम्परर
+### No. 87: कॉमिक / स्टोरीबोर्ड - कॉस्मिक स्पेस ओपेरा डार्क एम्परर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4583,6 +4476,46 @@ Re : No.9 Crimson Vindicator
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22069)**
+
+---
+
+### No. 88: कॉमिक / स्टोरीबोर्ड - Aero & Chic मिनिमलिस्ट कैरेक्टर स्केच
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+वॉटरकलर वॉश इफेक्ट के साथ एक साफ, मिनिमलिस्ट कैरेक्टर पोर्ट्रेट स्केच शीट, जिसमें प्रोफाइल और फ्रंट व्यू के साथ टेक्सचर डिटेल बॉक्स और स्टाइल नोट्स शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+एक साफ, "{argument name="style" default="Aero & Chic"}" स्टाइल में एक मिनिमलिस्ट कैरेक्टर पोर्ट्रेट स्केच शीट। इस आर्टवर्क में दो कैरेक्टर हैं—मध्यम लंबाई के काले बालों वाली एक महिला का प्रोफाइल व्यू और साफ-सुथरे पार्टेड काले बालों वाले एक पुरुष का फ्रंट-फेसिंग व्यू—दोनों ने गोल वायर-रिम चश्मा पहना है, आरामदायक टेक्सचर वाले निट स्वेटर पहने हैं, और हाथ में कॉफी का गर्म मग पकड़ा हुआ है। यह आर्ट सटीक, नाजुक लाइन वर्क के साथ एक सॉफ्ट वॉटरकलर वॉश और नॉस्टैल्जिक एस्थेटिक का उपयोग करती है। प्रत्येक पोर्ट्रेट में स्वेटर के टेक्सचर, आईवियर और मग पकड़े हुए हाथों के लिए अलग-अलग क्लोज-अप डिटेल बॉक्स शामिल हैं। यह डिज़ाइन एक साफ बैकग्राउंड पर म्यूट कलर पैलेट ब्रेकडाउन (सेज ग्रीन, डेनिम ब्लू, वार्म वुड ब्राउन और क्रीम बेज जैसे अर्थ टोन्स को शामिल करते हुए) के साथ प्रस्तुत किया गया है, जिसके साथ एक "Style Notes" डिस्क्रिप्शन बॉक्स भी है, जो एक शांत, आधुनिक मिनिमलिस्ट वाइब को दर्शाता है।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884004_qssx85_HI9683fW4AAdzz4.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Aero & Chic मिनिमलिस्ट कैरेक्टर स्केच - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884058_gcblub_HI9686GXcAAxpU3.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Aero & Chic मिनिमलिस्ट कैरेक्टर स्केच - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Minahil](https://x.com/Minahil42298354)
+- **स्रोत:** [Twitter Post](https://x.com/Minahil42298354/status/2057998744730165733)
+- **प्रकाशित:** 23 मई 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=22067)**
 
 ---
 
@@ -5941,7 +5874,7 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 <div align="center">
 
-### 🎯 13724 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 13722 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6004,6 +5937,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-27T09:03:07.311Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-27T13:00:35.237Z</sub>
 
 </div>

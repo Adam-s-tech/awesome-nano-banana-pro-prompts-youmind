@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13844** |
+| 📝 Total Prompts | **13842** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, May 27, 2026 at 9:02:22 AM UTC** |
+| 🔄 Last Updated | **Wednesday, May 27, 2026 at 12:59:49 PM UTC** |
 
 </div>
 
@@ -1573,108 +1573,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social Media Post - Candid Smartphone Street Flash Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Generates a raw, unpolished street photo with harsh smartphone flash lighting, capturing a subject walking through a grungy urban alley at night.
-
-#### 📝 Prompt
-
-```
-{
-  "objective": "Create a candid, smartphone-style street photo of an extremely beautiful slender {argument name="ethnicity" default="Korean"} woman walking confidently in a narrow urban alley at night.",
-  "aspect_ratio": "3:4",
-  "composition": {
-    "style": "single candid shot",
-    "camera_type": "smartphone",
-    "angle": "slightly low angle, centered subject walking toward camera",
-    "framing": "full body, natural imperfect framing",
-    "aesthetic": "raw, unpolished, street photography"
-  },
-  "character": {
-    "ethnicity": "Korean",
-    "appearance": "extremely beautiful, slender figure, soft facial features",
-    "hair": "short to medium length dark hair, slightly messy, natural movement",
-    "expression": "confident, slightly playful, relaxed",
-    "pose": "walking forward mid-step, natural stride, arms slightly swinging"
-  },
-  "wardrobe_and_accessories": {
-    "outfit": "{argument name="outfit" default="low-neck fitted mini dress (light color, slightly tight)"}",
-    "shoes": "knee-high boots",
-    "accessories": [
-      "stylish sunglasses",
-      "handbag held loosely",
-      "subtle jewelry"
-    ]
-  },
-  "environment": {
-    "setting": "{argument name="setting" default="narrow urban alley at night"}",
-    "details": [
-      "grungy walls with graffiti",
-      "metal doors and vents",
-      "dim warm lighting from above",
-      "deep shadows and contrast",
-      "slightly wet or textured ground"
-    ]
-  },
-  "lighting": {
-    "type": "harsh direct smartphone flash",
-    "effect": "strong highlights on subject, dark background falloff, high contrast",
-    "realism": "slightly overexposed skin highlights typical of phone flash"
-  },
-  "style": {
-    "rendering": "photorealistic",
-    "texture": "visible grain, noise, slight blur in motion areas",
-    "imperfections": [
-      "flash glare",
-      "slight overexposure",
-      "uneven lighting",
-      "minor motion blur"
-    ],
-    "color_grading": "natural with slight warm tint"
-  },
-  "negative_prompt": [
-    "studio lighting",
-    "perfect composition",
-    "overly smooth skin",
-    "high-end fashion shoot",
-    "cinematic look",
-    "over-polished",
-    "symmetrical perfection"
-  ]
-}
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914445_btfhmn_HJRiI_HWAAAkpao.jpg" width="600" alt="Social Media Post - Candid Smartphone Street Flash Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914439_cq3pob_HJRiMGlWgAAqgXl.jpg" width="600" alt="Social Media Post - Candid Smartphone Street Flash Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Keskin](https://x.com/craftian_keskin)
-- **Source:** [Twitter Post](https://x.com/craftian_keskin/status/2059379220086735196)
-- **Published:** May 26, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22659)**
-
----
-
-### No. 22: Social Media Post - Summer Lake Editorial Portrait
+### No. 21: Social Media Post - Summer Lake Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1711,7 +1610,7 @@ A structured prompt for a film-grain editorial shot featuring a subject at a woo
 
 ---
 
-### No. 23: Social Media Post - Realistic MacBook Screen POV
+### No. 22: Social Media Post - Realistic MacBook Screen POV
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1751,7 +1650,7 @@ A technical JSON-based prompt for generating a hyper-realistic photo-of-a-screen
 
 ---
 
-### No. 24: Social Media Post - Cozy Winter Hill Station Watercolor
+### No. 23: Social Media Post - Cozy Winter Hill Station Watercolor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1786,7 +1685,7 @@ A vertical watercolor wash illustration capturing a cozy, snow-draped hill stati
 
 ---
 
-### No. 25: Social Media Post - Parisian Street Style Portrait
+### No. 24: Social Media Post - Parisian Street Style Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1838,7 +1737,7 @@ Amateur subtle blurry iphone shot, photorealistic portrait of a beautiful {argum
 
 ---
 
-### No. 26: Social Media Post - Tropical Villa Jacuzzi Candid
+### No. 25: Social Media Post - Tropical Villa Jacuzzi Candid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1947,7 +1846,7 @@ A summer-themed prompt for generating realistic candid photos of two friends in 
 
 ---
 
-### No. 27: Social Media Post - LEGO Minifigure Couple Selfie Collage
+### No. 26: Social Media Post - LEGO Minifigure Couple Selfie Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2002,7 +1901,7 @@ Overall style: ultra-realistic smartphone photo, square 2x2 collage, clean white
 
 ---
 
-### No. 28: Social Media Post - Luxury Fruit Aesthetic Fashion Portrait
+### No. 27: Social Media Post - Luxury Fruit Aesthetic Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2127,7 +2026,7 @@ A complex prompt for creating a luxury fashion editorial where the subject is su
 
 ---
 
-### No. 29: Social Media Post - Luxury Hotel Raypunk Lobby
+### No. 28: Social Media Post - Luxury Hotel Raypunk Lobby
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2161,7 +2060,7 @@ Grand lobby of a {argument name="type" default="luxury hotel"} in an artistic {a
 
 ---
 
-### No. 30: Social Media Post - Lake Como Lifestyle Portrait
+### No. 29: Social Media Post - Lake Como Lifestyle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2195,7 +2094,7 @@ A high-quality lifestyle photograph of a joyful young {argument name="subject" d
 
 ---
 
-### No. 31: Social Media Post - Realistic iPhone Snapshot Stretching Woman
+### No. 30: Social Media Post - Realistic iPhone Snapshot Stretching Woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2238,7 +2137,7 @@ Same face
 
 ---
 
-### No. 32: Social Media Post - Retro Gaming Bedroom Aesthetics
+### No. 31: Social Media Post - Retro Gaming Bedroom Aesthetics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2291,7 +2190,7 @@ A cozy, vibrant bedroom filled with retro gaming and classic anime aesthetics fe
 
 ---
 
-### No. 33: Social Media Post - Urban Streetwear Portrait
+### No. 32: Social Media Post - Urban Streetwear Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2325,7 +2224,7 @@ Photorealistic portrait of a beautiful young {argument name="ethnicity" default=
 
 ---
 
-### No. 34: Social Media Post - Serene Coastal Cliff Floral Portrait
+### No. 33: Social Media Post - Serene Coastal Cliff Floral Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2377,7 +2276,7 @@ A serene portrait of a {argument name="subject" default="woman"} resting gracefu
 
 ---
 
-### No. 35: Social Media Post - Fairy-Tale Park Travel Photo
+### No. 34: Social Media Post - Fairy-Tale Park Travel Photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2408,6 +2307,40 @@ A full-body, high-quality travel photo of a stylish woman standing outdoors in a
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22487)**
+
+---
+
+### No. 35: Social Media Post - 90s Inspired Overhead Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A nostalgic overhead shot of a young woman with blonde hair sitting on a carpeted floor, capturing a 90s aesthetic with soft natural lighting and round glasses.
+
+#### 📝 Prompt
+
+```
+an overhead, high-angle shot of a {argument name="subject" default="young woman with long, wavy blonde hair and soft curtain bangs"} sitting on a {argument name="surface" default="beige carpeted floor"}. She is wearing {argument name="accessories" default="clear-framed, round prescription glasses"} and looking directly up at the camera with a subtle, gentle smile. Her outfit consists of a simple white short-sleeved t-shirt with delicate lace trim around the neckline, loose-fitting baggy denim shorts, and knee-high dark brown leather boots. The lighting is soft and natural, creating a casual, candid, and nostalgic 90s-inspired aesthetic.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779780733417_lz7ch1_HJKLO1WboAA17y8.jpg" width="600" alt="Social Media Post - 90s Inspired Overhead Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Lore](https://x.com/l_w_lorenzen)
+- **Source:** [Twitter Post](https://x.com/l_w_lorenzen/status/2058861077044269557)
+- **Published:** May 25, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22473)**
 
 ---
 
@@ -3949,49 +3882,7 @@ The final image should feel like a lonely artist leaning against a wall in darkn
 
 ---
 
-### No. 73: Comic / Storyboard - Brutalist Futuristic Man with Alligator
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A powerful cinematic low-angle shot of a muscular man in a leather trench coat with a pet alligator in a brutalist setting.
-
-#### 📝 Prompt
-
-```
-Use the exact same face from the reference image do not change the facial features and generate a Photorealistic low-angle shot showing a {argument name="subject description" default="tall, muscular, imposing man"} in a majestic and dominant pose. He is standing on rough concrete flooring in front of {argument name="setting" default="massive brutalist-style columns"}, creating a powerful cinematic atmosphere. Main character details: Wardrobe: He wears a {argument name="outfit" default="long matte black leather trench coat with bulky glossy blood-red panels"} across the chest, forearms, and legs. His shoulders are highlighted by highly detailed, polished metal armor plates, giving a futuristic and aggressive aesthetic. Appearance: The coat is partially open, revealing a bare torso with realistic skin texture and well-defined musculature. He wears multiple thick solid silver chains around his neck. On his face, he wears silver futuristic mirror-effect glasses. Accessory: In one hand, he holds a heavy polished metal chain, used like a leash. Animal: Held by the chain, a {argument name="companion" default="huge alligator"} stands beside him, equipped with a black combat harness. Its scale texture is rendered in maximum detail, showing relief, moisture, and extreme realism. Its head is slightly raised and its mouth is half open, conveying tension and wild power. Technical parameters and visual palette: Color palette: Dorninated by muted gray tones and deep black, with strong bright blood-red accents and cold
-metallic reflections. The combination conveys a dark,
-brutal, and sophisticated feeling. Lighting and textures: Soft natural light from an overcast day, highlighting every surface with extreme precision. Tiny cracks in the concrete,
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922950_qzoqc1_HJNtZcrW0AAGzXz.jpg" width="600" alt="Comic / Storyboard - Brutalist Futuristic Man with Alligator - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922991_20gaq6_HJNtZnfWUAEkmEU.jpg" width="600" alt="Comic / Storyboard - Brutalist Futuristic Man with Alligator - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **Source:** [Twitter Post](https://x.com/Ozayrr_irl/status/2059109745072464176)
-- **Published:** May 26, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22674)**
-
----
-
-### No. 74: Comic / Storyboard - Lone Cowboy Moonlit Misty Night
+### No. 73: Comic / Storyboard - Lone Cowboy Moonlit Misty Night
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4025,7 +3916,7 @@ A lone {argument name="subject" default="cowboy"} silhouetted against a {argumen
 
 ---
 
-### No. 75: Comic / Storyboard - Cosmic Fashion Magazine and Library
+### No. 74: Comic / Storyboard - Cosmic Fashion Magazine and Library
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4068,7 +3959,7 @@ For the First Image (Magazine Cover)
 
 ---
 
-### No. 76: Comic / Storyboard - Anime Warrior Character Design Sheet
+### No. 75: Comic / Storyboard - Anime Warrior Character Design Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4102,7 +3993,7 @@ A stylized anime-inspired cinematic character sheet set in a {argument name="env
 
 ---
 
-### No. 77: Comic / Storyboard - Anime Boy and Piplup Adventure Sheet
+### No. 76: Comic / Storyboard - Anime Boy and Piplup Adventure Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4138,7 +4029,7 @@ A heartwarming, slice-of-life anime-style illustration sheet depicting the daily
 
 ---
 
-### No. 78: Comic / Storyboard - Anime Portrait with Chibi Characters
+### No. 77: Comic / Storyboard - Anime Portrait with Chibi Characters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4172,7 +4063,7 @@ Ultra realistic cinematic anime-style nighttime portrait in a rainy dark courtya
 
 ---
 
-### No. 79: Comic / Storyboard - Whimsical Glass Couple in Winter Snowfall
+### No. 78: Comic / Storyboard - Whimsical Glass Couple in Winter Snowfall
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4259,7 +4150,7 @@ A highly artistic prompt for a European street scene at night featuring characte
 
 ---
 
-### No. 80: Comic / Storyboard - Cyberpunk Horror Mashup
+### No. 79: Comic / Storyboard - Cyberpunk Horror Mashup
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4293,7 +4184,7 @@ A composite prompt blending cyberpunk tower aesthetics with classic survival hor
 
 ---
 
-### No. 81: Comic / Storyboard - Horse Racing Winner Illustration
+### No. 80: Comic / Storyboard - Horse Racing Winner Illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4327,7 +4218,7 @@ Visualizing a horse race finish line with a specific horse and number winning th
 
 ---
 
-### No. 82: Comic / Storyboard - Yoshiwara Hall Fire Scene
+### No. 81: Comic / Storyboard - Yoshiwara Hall Fire Scene
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4361,7 +4252,7 @@ A scene of {argument name="location" default="Yoshiwara Hall"} on fire with {arg
 
 ---
 
-### No. 83: Comic / Storyboard - Vogue Fashion Illustration Sketch
+### No. 82: Comic / Storyboard - Vogue Fashion Illustration Sketch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4395,7 +4286,7 @@ Turn this photo into a {argument name="style" default="Vogue-style fashion illus
 
 ---
 
-### No. 84: Comic / Storyboard - Manga Inspired Horse Racing
+### No. 83: Comic / Storyboard - Manga Inspired Horse Racing
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4429,7 +4320,7 @@ Generates horse racing imagery inspired by the manga Kaze no Sylphid in the cont
 
 ---
 
-### No. 85: Comic / Storyboard - Golden Sunbeam Portrait
+### No. 84: Comic / Storyboard - Golden Sunbeam Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4463,7 +4354,7 @@ A cinematic close-up portrait of a {argument name="subject" default="young woman
 
 ---
 
-### No. 86: Comic / Storyboard - Snowy Japanese Village Winter Illustration
+### No. 85: Comic / Storyboard - Snowy Japanese Village Winter Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4515,7 +4406,7 @@ A medium shot of a serene {argument name="subject" default="Caucasian woman with
 
 ---
 
-### No. 87: Comic / Storyboard - Martian Astronaut and Alien Exchange
+### No. 86: Comic / Storyboard - Martian Astronaut and Alien Exchange
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4555,7 +4446,7 @@ A girl in a fully closed modern white spacesuit with a tinted visor stands on th
 
 ---
 
-### No. 88: Comic / Storyboard - Cosmic Space Opera Dark Emperor
+### No. 87: Comic / Storyboard - Cosmic Space Opera Dark Emperor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4585,6 +4476,46 @@ Cinematic space opera realism, masterpiece quality. Camera Position: high overhe
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22069)**
+
+---
+
+### No. 88: Comic / Storyboard - Aero & Chic Minimalist Character Sketch
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A clean, minimalist character portrait sketch sheet with a watercolor wash effect, featuring profile and front views with texture detail boxes and style notes.
+
+#### 📝 Prompt
+
+```
+A minimalist character portrait sketch sheet in a clean, "{argument name="style" default="Aero & Chic"}" style. The artwork features two characters—a profile view of a woman with medium-length dark hair and a front-facing view of a man with neat parted dark hair—both wearing round wire-rim glasses, cozy textured knit sweaters, and holding a warm mug of coffee. The art uses precise, delicate line work paired with a soft watercolor wash and a nostalgic aesthetic. Each portrait includes isolated close-up detail boxes for the sweater texture, the eyewear, and the hands holding the mug. The design is presented on a clean background with a muted color palette breakdown (incorporating earth tones like sage green, denim blue, warm wood browns, and cream beiges) alongside a "Style Notes" description box, capturing a calm, modern minimalist vibe.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884004_qssx85_HI9683fW4AAdzz4.jpg" width="600" alt="Comic / Storyboard - Aero & Chic Minimalist Character Sketch - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884058_gcblub_HI9686GXcAAxpU3.jpg" width="600" alt="Comic / Storyboard - Aero & Chic Minimalist Character Sketch - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Minahil](https://x.com/Minahil42298354)
+- **Source:** [Twitter Post](https://x.com/Minahil42298354/status/2057998744730165733)
+- **Published:** May 23, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22067)**
 
 ---
 
@@ -5916,7 +5847,7 @@ nature inspired atmospheric organicism: A nature-inspired atmospheric product ad
 
 <div align="center">
 
-### 🎯 13724 more prompts not shown here
+### 🎯 13722 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5979,6 +5910,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T09:02:22.540Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-27T12:59:49.877Z</sub>
 
 </div>

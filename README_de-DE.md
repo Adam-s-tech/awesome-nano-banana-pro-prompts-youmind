@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **13844** |
+| 📝 Gesamtanzahl Prompts | **13842** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Mittwoch, 27. Mai 2026 um 09:03:25 UTC** |
+| 🔄 Zuletzt aktualisiert | **Mittwoch, 27. Mai 2026 um 13:00:53 UTC** |
 
 </div>
 
@@ -1573,108 +1573,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social-Media-Beitrag - Authentisches Smartphone-Straßenporträt mit Blitz
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Erzeugt ein rohes, ungefiltertes Straßenfoto mit hartem Smartphone-Blitzlicht, das eine Person zeigt, die nachts durch eine schmuddelige urbane Gasse geht.
-
-#### 📝 Prompt
-
-```
-{
-  "objective": "Erstelle ein authentisches Street-Foto im Smartphone-Stil von einer extrem schönen, schlanken {argument name="ethnicity" default="koreanischen"} Frau, die nachts selbstbewusst durch eine enge urbane Gasse geht.",
-  "aspect_ratio": "3:4",
-  "composition": {
-    "style": "einzelne authentische Aufnahme",
-    "camera_type": "Smartphone",
-    "angle": "leicht niedriger Winkel, zentriertes Motiv, das auf die Kamera zuläuft",
-    "framing": "Ganzkörperaufnahme, natürliche, unperfekte Bildkomposition",
-    "aesthetic": "roh, ungefiltert, Street-Fotografie"
-  },
-  "character": {
-    "ethnicity": "koreanisch",
-    "appearance": "extrem schön, schlanke Figur, weiche Gesichtszüge",
-    "hair": "kurzes bis mittellanges dunkles Haar, leicht zerzaust, natürliche Bewegung",
-    "expression": "selbstbewusst, leicht verspielt, entspannt",
-    "pose": "beim Gehen, natürlicher Schritt, Arme leicht schwingend"
-  },
-  "wardrobe_and_accessories": {
-    "outfit": "{argument name="outfit" default="eng anliegendes Minikleid mit tiefem Ausschnitt (helle Farbe, leicht figurbetont)"}",
-    "shoes": "kniehohe Stiefel",
-    "accessories": [
-      "stylische Sonnenbrille",
-      "locker gehaltene Handtasche",
-      "dezenter Schmuck"
-    ]
-  },
-  "environment": {
-    "setting": "{argument name="setting" default="enge urbane Gasse bei Nacht"}",
-    "details": [
-      "schmuddelige Wände mit Graffiti",
-      "Metalltüren und Lüftungsschächte",
-      "gedimmtes warmes Licht von oben",
-      "tiefe Schatten und Kontraste",
-      "leicht nasser oder strukturierter Boden"
-    ]
-  },
-  "lighting": {
-    "type": "harter, direkter Smartphone-Blitz",
-    "effect": "starke Glanzlichter auf dem Motiv, dunkler Hintergrundabfall, hoher Kontrast",
-    "realism": "leicht überbelichtete Hautpartien, typisch für Smartphone-Blitz"
-  },
-  "style": {
-    "rendering": "fotorealistisch",
-    "texture": "sichtbare Körnung, Rauschen, leichte Bewegungsunschärfe",
-    "imperfections": [
-      "Blitzreflexionen",
-      "leichte Überbelichtung",
-      "ungleichmäßige Beleuchtung",
-      "geringe Bewegungsunschärfe"
-    ],
-    "color_grading": "natürlich mit leicht warmem Farbstich"
-  },
-  "negative_prompt": [
-    "Studiobeleuchtung",
-    "perfekte Komposition",
-    "übermäßig glatte Haut",
-    "High-End-Modeaufnahme",
-    "filmischer Look",
-    "übermäßig poliert",
-    "symmetrische Perfektion"
-  ]
-}
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914445_btfhmn_HJRiI_HWAAAkpao.jpg" width="600" alt="Social-Media-Beitrag - Authentisches Smartphone-Straßenporträt mit Blitz - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914439_cq3pob_HJRiMGlWgAAqgXl.jpg" width="600" alt="Social-Media-Beitrag - Authentisches Smartphone-Straßenporträt mit Blitz - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Keskin](https://x.com/craftian_keskin)
-- **Quelle:** [Twitter Post](https://x.com/craftian_keskin/status/2059379220086735196)
-- **Veröffentlicht:** 26. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22659)**
-
----
-
-### No. 22: Social-Media-Beitrag - Editorial-Porträt am Sommersee
+### No. 21: Social-Media-Beitrag - Editorial-Porträt am Sommersee
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1711,7 +1610,7 @@ Ein strukturierter Prompt für eine Editorial-Aufnahme mit Filmkorn, die ein Mot
 
 ---
 
-### No. 23: Social-Media-Beitrag - Realistischer MacBook-Bildschirm POV
+### No. 22: Social-Media-Beitrag - Realistischer MacBook-Bildschirm POV
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1751,7 +1650,7 @@ Ein technischer JSON-basierter Prompt zur Erzeugung eines hyperrealistischen Fot
 
 ---
 
-### No. 24: Social-Media-Beitrag - Gemütliche Winter-Bergstation im Aquarell-Stil
+### No. 23: Social-Media-Beitrag - Gemütliche Winter-Bergstation im Aquarell-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1786,7 +1685,7 @@ Eine vertikale Aquarell-Illustration, die eine gemütliche, schneebedeckte Bergs
 
 ---
 
-### No. 25: Social-Media-Beitrag - Pariser Street-Style-Porträt
+### No. 24: Social-Media-Beitrag - Pariser Street-Style-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1838,7 +1737,7 @@ Amateurhafte, subtil unscharfe iPhone-Aufnahme, fotorealistisches Porträt einer
 
 ---
 
-### No. 26: Social-Media-Beitrag - Tropische Villa Jacuzzi Schnappschuss
+### No. 25: Social-Media-Beitrag - Tropische Villa Jacuzzi Schnappschuss
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1947,7 +1846,7 @@ Ein sommerlicher Prompt zur Erstellung realistischer Schnappschüsse von zwei Fr
 
 ---
 
-### No. 27: Social-Media-Beitrag - LEGO Minifiguren-Paar Selfie-Collage
+### No. 26: Social-Media-Beitrag - LEGO Minifiguren-Paar Selfie-Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2002,7 +1901,7 @@ Gesamtstil: ultra-realistisches Smartphone-Foto, quadratische 2x2 Collage, saube
 
 ---
 
-### No. 28: Social-Media-Beitrag - Luxuriöses Mode-Porträt mit Früchte-Ästhetik
+### No. 27: Social-Media-Beitrag - Luxuriöses Mode-Porträt mit Früchte-Ästhetik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2130,7 +2029,7 @@ Ein komplexer Prompt zur Erstellung eines luxuriösen Mode-Editorials, bei dem d
 
 ---
 
-### No. 29: Social-Media-Beitrag - Luxushotel Raypunk-Lobby
+### No. 28: Social-Media-Beitrag - Luxushotel Raypunk-Lobby
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2164,7 +2063,7 @@ Große Lobby eines {argument name="type" default="Luxushotels"} im künstlerisch
 
 ---
 
-### No. 30: Social-Media-Beitrag - Lifestyle-Porträt am Comer See
+### No. 29: Social-Media-Beitrag - Lifestyle-Porträt am Comer See
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2198,7 +2097,7 @@ Ein hochwertiges Lifestyle-Foto einer fröhlichen jungen {argument name="subject
 
 ---
 
-### No. 31: Social-Media-Beitrag - Realistischer iPhone-Schnappschuss einer Frau beim Dehnen
+### No. 30: Social-Media-Beitrag - Realistischer iPhone-Schnappschuss einer Frau beim Dehnen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2241,7 +2140,7 @@ Same face
 
 ---
 
-### No. 32: Social-Media-Beitrag - Ästhetik für ein Retro-Gaming-Schlafzimmer
+### No. 31: Social-Media-Beitrag - Ästhetik für ein Retro-Gaming-Schlafzimmer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2294,7 +2193,7 @@ Ihr Zimmer ist ein nostalgischer Zufluchtsort, dekoriert mit einem Vintage-Macin
 
 ---
 
-### No. 33: Social-Media-Beitrag - Urbanes Streetwear-Porträt
+### No. 32: Social-Media-Beitrag - Urbanes Streetwear-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2328,7 +2227,7 @@ Fotorealistisches Porträt einer schönen jungen {argument name="ethnicity" defa
 
 ---
 
-### No. 34: Social-Media-Beitrag - Porträt mit Blumenkleid an einer ruhigen Küstenklippe
+### No. 33: Social-Media-Beitrag - Porträt mit Blumenkleid an einer ruhigen Küstenklippe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2380,7 +2279,7 @@ Ein ruhiges Porträt einer {argument name="subject" default="Frau"}, die anmutig
 
 ---
 
-### No. 35: Social-Media-Beitrag - Reisefoto im Märchenpark
+### No. 34: Social-Media-Beitrag - Reisefoto im Märchenpark
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2411,6 +2310,40 @@ Ein hochwertiges Ganzkörper-Reisefoto einer stilvollen Frau, die im Freien in e
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22487)**
+
+---
+
+### No. 35: Social-Media-Beitrag - Porträt aus der Vogelperspektive im 90er-Jahre-Stil
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Eine nostalgische Aufnahme aus der Vogelperspektive von einer jungen Frau mit blonden Haaren, die auf einem Teppichboden sitzt und die Ästhetik der 90er Jahre mit weichem, natürlichem Licht und einer runden Brille einfängt.
+
+#### 📝 Prompt
+
+```
+eine Aufnahme aus der Vogelperspektive von einer {argument name="subject" default="jungen Frau mit langem, welligem blonden Haar und sanftem Curtain Bangs"}, die auf einem {argument name="surface" default="beigen Teppichboden"} sitzt. Sie trägt {argument name="accessories" default="eine runde Brille mit transparentem Rahmen"} und blickt mit einem dezenten, sanften Lächeln direkt in die Kamera. Ihr Outfit besteht aus einem schlichten, kurzärmeligen weißen T-Shirt mit zarter Spitzenborte am Ausschnitt, weit geschnittenen Jeansshorts und kniehohen, dunkelbraunen Lederstiefeln. Das Licht ist weich und natürlich, was eine lässige, authentische und nostalgische Ästhetik im Stil der 90er Jahre erzeugt.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779780733417_lz7ch1_HJKLO1WboAA17y8.jpg" width="600" alt="Social-Media-Beitrag - Porträt aus der Vogelperspektive im 90er-Jahre-Stil - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Lore](https://x.com/l_w_lorenzen)
+- **Quelle:** [Twitter Post](https://x.com/l_w_lorenzen/status/2058861077044269557)
+- **Veröffentlicht:** 25. Mai 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22473)**
 
 ---
 
@@ -3952,47 +3885,7 @@ Das finale Bild sollte sich anfühlen wie ein einsamer Künstler, der im Dunkeln
 
 ---
 
-### No. 73: Comic / Storyboard - Brutalistischer futuristischer Mann mit Alligator
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Eine kraftvolle, filmische Low-Angle-Aufnahme eines muskulösen Mannes im Ledertrenchcoat mit einem zahmen Alligator in einer brutalistischen Umgebung.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie exakt dasselbe Gesicht aus dem Referenzbild, verändern Sie die Gesichtszüge nicht und generieren Sie eine fotorealistische Low-Angle-Aufnahme, die einen {argument name="subject description" default="großen, muskulösen, imposanten Mann"} in einer majestätischen und dominanten Pose zeigt. Er steht auf einem rauen Betonboden vor {argument name="setting" default="massiven Säulen im brutalistischen Stil"}, was eine kraftvolle, filmische Atmosphäre erzeugt. Details zur Hauptfigur: Garderobe: Er trägt einen {argument name="outfit" default="langen, mattschwarzen Ledertrenchcoat mit voluminösen, glänzend blutroten Einsätzen"} an Brust, Unterarmen und Beinen. Seine Schultern werden durch hochdetaillierte, polierte Metallpanzerplatten betont, was für eine futuristische und aggressive Ästhetik sorgt. Erscheinungsbild: Der Mantel ist teilweise geöffnet und gibt den Blick auf einen nackten Oberkörper mit realistischer Hauttextur und gut definierter Muskulatur frei. Er trägt mehrere dicke, massive Silberketten um den Hals. Auf seinem Gesicht trägt er eine futuristische silberne Brille mit Spiegeleffekt. Accessoire: In einer Hand hält er eine schwere, polierte Metallkette, die wie eine Leine fungiert. Tier: An der Kette gehalten, steht ein {argument name="companion" default="riesiger Alligator"} neben ihm, der mit einem schwarzen Kampfgeschirr ausgestattet ist. Die Textur seiner Schuppen ist mit maximalem Detailgrad wiedergegeben und zeigt Relief, Feuchtigkeit und extremen Realismus. Sein Kopf ist leicht erhoben und sein Maul halb geöffnet, was Spannung und wilde Kraft vermittelt. Technische Parameter und visuelle Palette: Farbpalette: Dominiert von gedämpften Grautönen und tiefem Schwarz, mit starken, hellen blutroten Akzenten und kalten metallischen Reflexionen. Die Kombination vermittelt ein dunkles, brutales und raffiniertes Gefühl. Beleuchtung und Texturen: Weiches natürliches Licht eines bewölkten Tages, das jede Oberfläche mit extremer Präzision hervorhebt. Winzige Risse im Beton,
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922950_qzoqc1_HJNtZcrW0AAGzXz.jpg" width="600" alt="Comic / Storyboard - Brutalistischer futuristischer Mann mit Alligator - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922991_20gaq6_HJNtZnfWUAEkmEU.jpg" width="600" alt="Comic / Storyboard - Brutalistischer futuristischer Mann mit Alligator - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **Quelle:** [Twitter Post](https://x.com/Ozayrr_irl/status/2059109745072464176)
-- **Veröffentlicht:** 26. Mai 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22674)**
-
----
-
-### No. 74: Comic / Storyboard - Einsamer Cowboy in nebliger Mondnacht
+### No. 73: Comic / Storyboard - Einsamer Cowboy in nebliger Mondnacht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4026,7 +3919,7 @@ Ein einsamer {argument name="subject" default="Cowboy"}, dessen Silhouette sich 
 
 ---
 
-### No. 75: Comic / Storyboard - Cosmic Fashion Magazine und Bibliothek
+### No. 74: Comic / Storyboard - Cosmic Fashion Magazine und Bibliothek
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4069,7 +3962,7 @@ Eine gemütliche Anime-Illustration im Aquarellstil einer Familie, die eine gro�
 
 ---
 
-### No. 76: Comic / Storyboard - Anime-Krieger Charakter-Designbogen
+### No. 75: Comic / Storyboard - Anime-Krieger Charakter-Designbogen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4103,7 +3996,7 @@ Ein stilisierter, von Anime inspirierter, filmischer Charakterbogen, angesiedelt
 
 ---
 
-### No. 77: Comic / Storyboard - Anime-Trainer und Pokémon-Bindungsbogen
+### No. 76: Comic / Storyboard - Anime-Trainer und Pokémon-Bindungsbogen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4139,7 +4032,7 @@ Am unteren Rand befindet sich eine Sammlung kleiner „{argument name="pokemon" 
 
 ---
 
-### No. 78: Comic / Storyboard - Anime-Porträt mit Chibi-Charakteren
+### No. 77: Comic / Storyboard - Anime-Porträt mit Chibi-Charakteren
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4173,7 +4066,7 @@ Ultrarealistisches, filmisches Anime-Nachtporträt in einem verregneten, dunklen
 
 ---
 
-### No. 79: Comic / Storyboard - Skurriles Glas-Paar im winterlichen Schneefall
+### No. 78: Comic / Storyboard - Skurriles Glas-Paar im winterlichen Schneefall
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4260,7 +4153,7 @@ Ein hochkünstlerischer Prompt für eine europäische Straßenszene bei Nacht mi
 
 ---
 
-### No. 80: Comic / Storyboard - Cyberpunk-Horror-Mashup
+### No. 79: Comic / Storyboard - Cyberpunk-Horror-Mashup
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4294,7 +4187,7 @@ Ein zusammengesetzter Prompt, der die Ästhetik von Cyberpunk-Türmen mit klassi
 
 ---
 
-### No. 81: Comic / Storyboard - Illustration eines Pferderennsiegers
+### No. 80: Comic / Storyboard - Illustration eines Pferderennsiegers
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4328,7 +4221,7 @@ Visualisierung der Ziellinie eines Pferderennens, bei dem ein bestimmtes Pferd m
 
 ---
 
-### No. 82: Comic / Storyboard - Brand im Yoshiwara Hall
+### No. 81: Comic / Storyboard - Brand im Yoshiwara Hall
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4362,7 +4255,7 @@ Eine Szene von {argument name="location" default="Yoshiwara Hall"} in Flammen, u
 
 ---
 
-### No. 83: Comic / Storyboard - Vogue Mode-Illustrationsskizze
+### No. 82: Comic / Storyboard - Vogue Mode-Illustrationsskizze
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4396,7 +4289,7 @@ Verwandle dieses Foto in eine {argument name="style" default="Mode-Illustration 
 
 ---
 
-### No. 84: Comic / Storyboard - Pferderennen im Manga-Stil
+### No. 83: Comic / Storyboard - Pferderennen im Manga-Stil
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4430,7 +4323,7 @@ Erzeugt Bilder von Pferderennen, die vom Manga Kaze no Sylphid im Kontext des Oa
 
 ---
 
-### No. 85: Comic / Storyboard - Porträt im goldenen Sonnenstrahl
+### No. 84: Comic / Storyboard - Porträt im goldenen Sonnenstrahl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4464,7 +4357,7 @@ Ein filmisches Nahaufnahme-Porträt einer {argument name="subject" default="jung
 
 ---
 
-### No. 86: Comic / Storyboard - Illustration eines verschneiten japanischen Dorfes im Winter
+### No. 85: Comic / Storyboard - Illustration eines verschneiten japanischen Dorfes im Winter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4516,7 +4409,7 @@ Eine Halbtotale einer gelassenen {argument name="subject" default="kaukasischen 
 
 ---
 
-### No. 87: Comic / Storyboard - Mars-Astronaut und Alien-Austausch
+### No. 86: Comic / Storyboard - Mars-Astronaut und Alien-Austausch
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4556,7 +4449,7 @@ Ein Mädchen in einem vollständig geschlossenen, modernen weißen Raumanzug mit
 
 ---
 
-### No. 88: Comic / Storyboard - Kosmische Space Opera: Der dunkle Imperator
+### No. 87: Comic / Storyboard - Kosmische Space Opera: Der dunkle Imperator
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4586,6 +4479,46 @@ Filmischer Space-Opera-Realismus, Meisterwerk-Qualität. Kameraposition: hohe Vo
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22069)**
+
+---
+
+### No. 88: Comic / Storyboard - Aero & Chic Minimalistische Charakter-Skizze
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein klares, minimalistisches Charakter-Porträt-Skizzenblatt mit Aquarell-Effekt, das Profil- und Frontansichten sowie Detailboxen für Texturen und Stilnotizen enthält.
+
+#### 📝 Prompt
+
+```
+Ein minimalistisches Charakter-Porträt-Skizzenblatt in einem klaren „{argument name="style" default="Aero & Chic"}“-Stil. Das Kunstwerk zeigt zwei Charaktere – eine Profilansicht einer Frau mit mittellangem, dunklem Haar und eine Frontalansicht eines Mannes mit ordentlich gescheiteltem, dunklem Haar –, beide tragen runde Drahtgestellbrillen, gemütliche, strukturierte Strickpullover und halten eine warme Tasse Kaffee. Die Kunst verwendet präzise, feine Linienführung in Kombination mit einem sanften Aquarell-Wasch-Effekt und einer nostalgischen Ästhetik. Jedes Porträt enthält isolierte Detailboxen für die Pullover-Textur, die Brillen und die Hände, die die Tasse halten. Das Design wird auf einem sauberen Hintergrund mit einer Aufschlüsselung der gedämpften Farbpalette präsentiert (unter Einbeziehung von Erdtönen wie Salbeigrün, Denim-Blau, warmen Holzbrauntönen und Cremebeige), ergänzt durch eine „Style Notes“-Beschreibungsbox, die eine ruhige, modern-minimalistische Atmosphäre einfängt.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884004_qssx85_HI9683fW4AAdzz4.jpg" width="600" alt="Comic / Storyboard - Aero & Chic Minimalistische Charakter-Skizze - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884058_gcblub_HI9686GXcAAxpU3.jpg" width="600" alt="Comic / Storyboard - Aero & Chic Minimalistische Charakter-Skizze - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Minahil](https://x.com/Minahil42298354)
+- **Quelle:** [Twitter Post](https://x.com/Minahil42298354/status/2057998744730165733)
+- **Veröffentlicht:** 23. Mai 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=22067)**
 
 ---
 
@@ -5944,7 +5877,7 @@ von der Natur inspirierter, atmosphärischer Organismus: Eine von der Natur insp
 
 <div align="center">
 
-### 🎯 13724 weitere Prompts hier nicht angezeigt
+### 🎯 13722 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6007,6 +5940,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-27T09:03:25.588Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-05-27T13:00:53.902Z</sub>
 
 </div>

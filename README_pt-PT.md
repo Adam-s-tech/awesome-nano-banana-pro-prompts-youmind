@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **13844** |
+| 📝 Total de prompts | **13842** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **quarta-feira, 27 de maio de 2026 às 09:03:50 UTC** |
+| 🔄 Última atualização | **quarta-feira, 27 de maio de 2026 às 13:01:17 UTC** |
 
 </div>
 
@@ -1572,108 +1572,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicação em Redes Sociais - Retrato de Rua Espontâneo com Flash de Smartphone
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Gera uma foto de rua crua e sem retoques com iluminação forte de flash de smartphone, capturando um sujeito caminhando por um beco urbano sujo à noite.
-
-#### 📝 Prompt
-
-```
-{
-  "objective": "Criar uma foto de rua espontânea, estilo smartphone, de uma mulher {argument name="ethnicity" default="coreana"} extremamente bonita e esguia caminhando com confiança em um beco urbano estreito à noite.",
-  "aspect_ratio": "3:4",
-  "composition": {
-    "style": "foto espontânea única",
-    "camera_type": "smartphone",
-    "angle": "ângulo levemente baixo, sujeito centralizado caminhando em direção à câmera",
-    "framing": "corpo inteiro, enquadramento natural imperfeito",
-    "aesthetic": "cru, sem retoques, fotografia de rua"
-  },
-  "character": {
-    "ethnicity": "coreana",
-    "appearance": "extremamente bonita, figura esguia, traços faciais suaves",
-    "hair": "cabelo escuro de comprimento curto a médio, levemente bagunçado, movimento natural",
-    "expression": "confiante, levemente brincalhona, relaxada",
-    "pose": "caminhando para frente no meio do passo, passada natural, braços balançando levemente"
-  },
-  "wardrobe_and_accessories": {
-    "outfit": "{argument name="outfit" default="vestido curto justo de decote baixo (cor clara, levemente apertado)"}",
-    "shoes": "botas até o joelho",
-    "accessories": [
-      "óculos de sol estilosos",
-      "bolsa de mão segurada de forma despojada",
-      "joias sutis"
-    ]
-  },
-  "environment": {
-    "setting": "{argument name="setting" default="beco urbano estreito à noite"}",
-    "details": [
-      "paredes sujas com grafite",
-      "portas e aberturas de metal",
-      "iluminação quente e fraca vinda de cima",
-      "sombras profundas e contraste",
-      "chão levemente molhado ou texturizado"
-    ]
-  },
-  "lighting": {
-    "type": "flash direto e forte de smartphone",
-    "effect": "destaques fortes no sujeito, fundo escuro, alto contraste",
-    "realism": "destaques de pele levemente superexpostos, típicos de flash de celular"
-  },
-  "style": {
-    "rendering": "fotorrealista",
-    "texture": "grão visível, ruído, leve desfoque em áreas de movimento",
-    "imperfections": [
-      "brilho do flash",
-      "leve superexposição",
-      "iluminação irregular",
-      "pequeno desfoque de movimento"
-    ],
-    "color_grading": "natural com leve tom quente"
-  },
-  "negative_prompt": [
-    "iluminação de estúdio",
-    "composição perfeita",
-    "pele excessivamente lisa",
-    "ensaio de moda de alto padrão",
-    "visual cinematográfico",
-    "excessivamente polido",
-    "perfeição simétrica"
-  ]
-}
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914445_btfhmn_HJRiI_HWAAAkpao.jpg" width="600" alt="Publicação em Redes Sociais - Retrato de Rua Espontâneo com Flash de Smartphone - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867914439_cq3pob_HJRiMGlWgAAqgXl.jpg" width="600" alt="Publicação em Redes Sociais - Retrato de Rua Espontâneo com Flash de Smartphone - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Keskin](https://x.com/craftian_keskin)
-- **Fonte:** [Twitter Post](https://x.com/craftian_keskin/status/2059379220086735196)
-- **Publicado:** 26 de maio de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=22659)**
-
----
-
-### No. 22: Publicação em Redes Sociais - Retrato Editorial no Lago de Verão
+### No. 21: Publicação em Redes Sociais - Retrato Editorial no Lago de Verão
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1710,7 +1609,7 @@ Um prompt estruturado para uma foto editorial com granulação de filme, apresen
 
 ---
 
-### No. 23: Publicação em Redes Sociais - POV realista de tela de MacBook
+### No. 22: Publicação em Redes Sociais - POV realista de tela de MacBook
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1750,7 +1649,7 @@ Um prompt técnico baseado em JSON para gerar uma foto hiper-realista de uma tel
 
 ---
 
-### No. 24: Publicação em Redes Sociais - Aquarela Aconchegante de Estação de Montanha no Inverno
+### No. 23: Publicação em Redes Sociais - Aquarela Aconchegante de Estação de Montanha no Inverno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1785,7 +1684,7 @@ O {argument name="background" default="fundo apresenta uma charmosa vila alpina 
 
 ---
 
-### No. 25: Publicação em Redes Sociais - Retrato de Estilo de Rua Parisiense
+### No. 24: Publicação em Redes Sociais - Retrato de Estilo de Rua Parisiense
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1837,7 +1736,7 @@ Foto amadora de iPhone com desfoque sutil, retrato fotorrealista de uma bela {ar
 
 ---
 
-### No. 26: Publicação em Redes Sociais - Foto Espontânea em Jacuzzi de Villa Tropical
+### No. 25: Publicação em Redes Sociais - Foto Espontânea em Jacuzzi de Villa Tropical
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1946,7 +1845,7 @@ Um prompt com tema de verão para gerar fotos espontâneas realistas de duas ami
 
 ---
 
-### No. 27: Publicação em Redes Sociais - Colagem de Selfie de Casal com Minifiguras LEGO
+### No. 26: Publicação em Redes Sociais - Colagem de Selfie de Casal com Minifiguras LEGO
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2001,7 +1900,7 @@ Estilo geral: foto de smartphone ultra-realista, colagem quadrada 2x2, bordas br
 
 ---
 
-### No. 28: Publicação em Redes Sociais - Retrato de Moda Estética com Frutas de Luxo
+### No. 27: Publicação em Redes Sociais - Retrato de Moda Estética com Frutas de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2126,7 +2025,7 @@ Um prompt complexo para criar um editorial de moda de luxo onde o sujeito está 
 
 ---
 
-### No. 29: Publicação em Redes Sociais - Lobby de Hotel de Luxo em Estilo Raypunk
+### No. 28: Publicação em Redes Sociais - Lobby de Hotel de Luxo em Estilo Raypunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2160,7 +2059,7 @@ Saguão grandioso de um {argument name="type" default="hotel de luxo"} em um est
 
 ---
 
-### No. 30: Publicação em Redes Sociais - Retrato de estilo de vida no Lago Como
+### No. 29: Publicação em Redes Sociais - Retrato de estilo de vida no Lago Como
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2194,7 +2093,7 @@ Uma fotografia de estilo de vida de alta qualidade de uma jovem alegre {argument
 
 ---
 
-### No. 31: Publicação em Redes Sociais - Foto realista de iPhone de mulher se alongando
+### No. 30: Publicação em Redes Sociais - Foto realista de iPhone de mulher se alongando
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2237,7 +2136,7 @@ Mesmo rosto
 
 ---
 
-### No. 32: Publicação em Redes Sociais - Estética de Quarto Gamer Retrô
+### No. 31: Publicação em Redes Sociais - Estética de Quarto Gamer Retrô
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2290,7 +2189,7 @@ O quarto dela é um refúgio nostálgico, decorado com um computador Macintosh v
 
 ---
 
-### No. 33: Publicação em Redes Sociais - Retrato de Streetwear Urbano
+### No. 32: Publicação em Redes Sociais - Retrato de Streetwear Urbano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2324,7 +2223,7 @@ Retrato fotorrealista de uma bela jovem {argument name="ethnicity" default="do L
 
 ---
 
-### No. 34: Publicação em Redes Sociais - Retrato Floral em Falésia Costeira Serena
+### No. 33: Publicação em Redes Sociais - Retrato Floral em Falésia Costeira Serena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2376,7 +2275,7 @@ Um retrato sereno de uma {argument name="subject" default="mulher"} descansando 
 
 ---
 
-### No. 35: Publicação em Redes Sociais - Foto de Viagem em Parque de Contos de Fadas
+### No. 34: Publicação em Redes Sociais - Foto de Viagem em Parque de Contos de Fadas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2407,6 +2306,40 @@ Uma foto de viagem de corpo inteiro e alta qualidade de uma mulher elegante em u
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=22487)**
+
+---
+
+### No. 35: Publicação em Redes Sociais - Retrato de ângulo superior inspirado nos anos 90
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Uma foto nostálgica de ângulo superior de uma jovem de cabelos loiros sentada em um chão acarpetado, capturando a estética dos anos 90 com iluminação natural suave e óculos redondos.
+
+#### 📝 Prompt
+
+```
+uma foto de ângulo superior, vista de cima, de uma {argument name="subject" default="jovem com cabelos loiros longos e ondulados e franja cortininha"} sentada em um {argument name="surface" default="chão com carpete bege"}. Ela está usando {argument name="accessories" default="óculos de grau redondos com armação transparente"} e olhando diretamente para a câmera com um sorriso sutil e gentil. Seu visual consiste em uma camiseta branca simples de manga curta com um delicado acabamento em renda no decote, shorts jeans largos e botas de cano alto de couro marrom escuro. A iluminação é suave e natural, criando uma estética casual, espontânea e nostálgica inspirada nos anos 90.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779780733417_lz7ch1_HJKLO1WboAA17y8.jpg" width="600" alt="Publicação em Redes Sociais - Retrato de ângulo superior inspirado nos anos 90 - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Lore](https://x.com/l_w_lorenzen)
+- **Fonte:** [Twitter Post](https://x.com/l_w_lorenzen/status/2058861077044269557)
+- **Publicado:** 25 de maio de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=22473)**
 
 ---
 
@@ -3948,47 +3881,7 @@ A imagem final deve transmitir a sensação de um artista solitário encostado e
 
 ---
 
-### No. 73: Banda desenhada / Storyboard - Homem Futurista Brutalista com Jacaré
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um poderoso plano cinematográfico em ângulo contra-picado de um homem musculoso com um sobretudo de couro e um jacaré de estimação em um cenário brutalista.
-
-#### 📝 Prompt
-
-```
-Use exatamente o mesmo rosto da imagem de referência, não altere as características faciais e gere um plano em ângulo contra-picado fotorrealista mostrando um {argument name="subject description" default="homem alto, musculoso e imponente"} em uma pose majestosa e dominante. Ele está de pé sobre um piso de concreto bruto em frente a {argument name="setting" default="colunas maciças em estilo brutalista"}, criando uma atmosfera cinematográfica poderosa. Detalhes do personagem principal: Vestuário: Ele veste um {argument name="outfit" default="longo sobretudo de couro preto fosco com painéis volumosos em vermelho-sangue brilhante"} no peito, antebraços e pernas. Seus ombros são destacados por placas de armadura de metal polido altamente detalhadas, conferindo uma estética futurista e agressiva. Aparência: O casaco está parcialmente aberto, revelando um tronco nu com textura de pele realista e musculatura bem definida. Ele usa várias correntes grossas de prata maciça no pescoço. No rosto, ele usa óculos futuristas com efeito espelhado prateado. Acessório: Em uma das mãos, ele segura uma corrente pesada de metal polido, usada como uma guia. Animal: Preso pela corrente, um {argument name="companion" default="jacaré enorme"} está ao seu lado, equipado com um arnês de combate preto. A textura de suas escamas é renderizada com o máximo de detalhes, mostrando relevo, umidade e extremo realismo. Sua cabeça está levemente erguida e sua boca está entreaberta, transmitindo tensão e poder selvagem. Parâmetros técnicos e paleta visual: Paleta de cores: Dominada por tons de cinza suaves e preto profundo, com fortes detalhes em vermelho-sangue brilhante e reflexos metálicos frios. A combinação transmite uma sensação sombria, brutal e sofisticada. Iluminação e texturas: Luz natural suave de um dia nublado, destacando cada superfície com extrema precisão. Pequenas rachaduras no concreto,
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922950_qzoqc1_HJNtZcrW0AAGzXz.jpg" width="600" alt="Banda desenhada / Storyboard - Homem Futurista Brutalista com Jacaré - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779867922991_20gaq6_HJNtZnfWUAEkmEU.jpg" width="600" alt="Banda desenhada / Storyboard - Homem Futurista Brutalista com Jacaré - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **Fonte:** [Twitter Post](https://x.com/Ozayrr_irl/status/2059109745072464176)
-- **Publicado:** 26 de maio de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=22674)**
-
----
-
-### No. 74: Banda desenhada / Storyboard - Cowboy Solitário em Noite Nebulosa sob o Luar
+### No. 73: Banda desenhada / Storyboard - Cowboy Solitário em Noite Nebulosa sob o Luar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4022,7 +3915,7 @@ Um {argument name="subject" default="cowboy"} solitário em silhueta contra um {
 
 ---
 
-### No. 75: Banda desenhada / Storyboard - Revista de Moda Cósmica e Biblioteca
+### No. 74: Banda desenhada / Storyboard - Revista de Moda Cósmica e Biblioteca
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4065,7 +3958,7 @@ Uma ilustração de anime aconchegante em estilo aquarela de uma família explor
 
 ---
 
-### No. 76: Banda desenhada / Storyboard - Folha de Design de Personagem de Guerreiro de Anime
+### No. 75: Banda desenhada / Storyboard - Folha de Design de Personagem de Guerreiro de Anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4099,7 +3992,7 @@ Uma folha de personagem cinematográfica estilizada inspirada em anime, ambienta
 
 ---
 
-### No. 77: Banda desenhada / Storyboard - Folha de Vínculo entre Treinador de Anime e Pokémon
+### No. 76: Banda desenhada / Storyboard - Folha de Vínculo entre Treinador de Anime e Pokémon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4135,7 +4028,7 @@ Uma folha de ilustração estilo anime, emocionante e do cotidiano (slice-of-lif
 
 ---
 
-### No. 78: Banda desenhada / Storyboard - Retrato em Estilo Anime com Personagens Chibi
+### No. 77: Banda desenhada / Storyboard - Retrato em Estilo Anime com Personagens Chibi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4169,7 +4062,7 @@ Retrato noturno cinematográfico ultrarrealista em estilo anime em um pátio esc
 
 ---
 
-### No. 79: Banda desenhada / Storyboard - Casal de vidro encantador sob a neve de inverno
+### No. 78: Banda desenhada / Storyboard - Casal de vidro encantador sob a neve de inverno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4256,7 +4149,7 @@ Um prompt altamente artístico para uma cena de rua europeia à noite, apresenta
 
 ---
 
-### No. 80: Banda desenhada / Storyboard - Mashup de Terror Cyberpunk
+### No. 79: Banda desenhada / Storyboard - Mashup de Terror Cyberpunk
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4290,7 +4183,7 @@ Um prompt composto que mistura a estética de torres cyberpunk com elementos cl�
 
 ---
 
-### No. 81: Banda desenhada / Storyboard - Ilustração de Vencedor de Corrida de Cavalos
+### No. 80: Banda desenhada / Storyboard - Ilustração de Vencedor de Corrida de Cavalos
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4324,7 +4217,7 @@ Visualização da linha de chegada de uma corrida de cavalos com um cavalo e nú
 
 ---
 
-### No. 82: Banda desenhada / Storyboard - Cena do Incêndio no Yoshiwara Hall
+### No. 81: Banda desenhada / Storyboard - Cena do Incêndio no Yoshiwara Hall
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4358,7 +4251,7 @@ Uma cena do {argument name="location" default="Yoshiwara Hall"} em chamas com {a
 
 ---
 
-### No. 83: Banda desenhada / Storyboard - Esboço de Ilustração de Moda Vogue
+### No. 82: Banda desenhada / Storyboard - Esboço de Ilustração de Moda Vogue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4392,7 +4285,7 @@ Transforme esta foto em uma {argument name="style" default="ilustração de moda
 
 ---
 
-### No. 84: Banda desenhada / Storyboard - Corrida de cavalos inspirada em mangá
+### No. 83: Banda desenhada / Storyboard - Corrida de cavalos inspirada em mangá
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4426,7 +4319,7 @@ Gera imagens de corrida de cavalos inspiradas no mangá Kaze no Sylphid no conte
 
 ---
 
-### No. 85: Banda desenhada / Storyboard - Retrato de Raio de Sol Dourado
+### No. 84: Banda desenhada / Storyboard - Retrato de Raio de Sol Dourado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4460,7 +4353,7 @@ Um retrato cinematográfico em close-up de uma {argument name="subject" default=
 
 ---
 
-### No. 86: Banda desenhada / Storyboard - Ilustração de Inverno de uma Vila Japonesa Nevada
+### No. 85: Banda desenhada / Storyboard - Ilustração de Inverno de uma Vila Japonesa Nevada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4512,7 +4405,7 @@ Um plano médio de uma serena {argument name="subject" default="mulher caucasian
 
 ---
 
-### No. 87: Banda desenhada / Storyboard - Intercâmbio entre Astronauta Marciano e Alienígena
+### No. 86: Banda desenhada / Storyboard - Intercâmbio entre Astronauta Marciano e Alienígena
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4552,7 +4445,7 @@ Uma garota em um traje espacial branco moderno totalmente fechado com viseira fu
 
 ---
 
-### No. 88: Banda desenhada / Storyboard - Ópera Espacial Cósmica: Imperador Sombrio
+### No. 87: Banda desenhada / Storyboard - Ópera Espacial Cósmica: Imperador Sombrio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4582,6 +4475,46 @@ Realismo de ópera espacial cinematográfica, qualidade de obra-prima. Posição
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=22069)**
+
+---
+
+### No. 88: Banda desenhada / Storyboard - Esboço de Personagem Minimalista Aero & Chic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Uma folha de esboço de retrato de personagem limpa e minimalista com efeito de aquarela, apresentando vistas de perfil e frontal com caixas de detalhes de textura e notas de estilo.
+
+#### 📝 Prompt
+
+```
+Uma folha de esboço de retrato de personagem minimalista em um estilo limpo "{argument name="style" default="Aero & Chic"}". A arte apresenta dois personagens — uma vista de perfil de uma mulher com cabelos escuros de comprimento médio e uma vista frontal de um homem com cabelos escuros bem penteados com risca lateral — ambos usando óculos de armação de metal redondos, suéteres de tricô texturizados aconchegantes e segurando uma xícara de café quente. A arte utiliza traços precisos e delicados combinados com uma suave lavagem em aquarela e uma estética nostálgica. Cada retrato inclui caixas de detalhes em close isoladas para a textura do suéter, os óculos e as mãos segurando a xícara. O design é apresentado em um fundo limpo com uma paleta de cores suaves (incorporando tons terrosos como verde sálvia, azul jeans, marrons amadeirados quentes e beges creme) ao lado de uma caixa de descrição de "Notas de Estilo", capturando uma vibração minimalista moderna e calma.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884004_qssx85_HI9683fW4AAdzz4.jpg" width="600" alt="Banda desenhada / Storyboard - Esboço de Personagem Minimalista Aero & Chic - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779607884058_gcblub_HI9686GXcAAxpU3.jpg" width="600" alt="Banda desenhada / Storyboard - Esboço de Personagem Minimalista Aero & Chic - Image 2">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Minahil](https://x.com/Minahil42298354)
+- **Fonte:** [Twitter Post](https://x.com/Minahil42298354/status/2057998744730165733)
+- **Publicado:** 23 de maio de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=22067)**
 
 ---
 
@@ -5940,7 +5873,7 @@ organicismo atmosférico inspirado na natureza: Um anúncio de produto atmosfér
 
 <div align="center">
 
-### 🎯 13724 mais prompts não mostrados aqui
+### 🎯 13722 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6003,6 +5936,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-27T09:03:50.201Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-27T13:01:17.976Z</sub>
 
 </div>
