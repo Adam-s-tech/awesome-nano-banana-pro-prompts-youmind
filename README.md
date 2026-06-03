@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **14074** |
+| 📝 Total Prompts | **14073** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, June 3, 2026 at 9:30:44 AM UTC** |
+| 🔄 Last Updated | **Wednesday, June 3, 2026 at 1:27:26 PM UTC** |
 
 </div>
 
@@ -654,47 +654,7 @@ Aspect ratio is 3:4 vertical poster. Include vertical Japanese calligraphy descr
 
 > 📝 Sorted by publish date (newest first)
 
-### No. 1: Profile / Avatar - Athletic Executive Studio Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A professional luxury fashion prompt for an athletic male executive in a dark studio with dramatic spotlighting and smoke effects.
-
-#### 📝 Prompt
-
-```
-Photorealistic luxury fashion portrait of an {argument name="subject" default="athletic male executive"} standing beneath a focused overhead spotlight in a dark studio environment. Tailored {argument name="suit color" default="navy"} suit, white dress shirt with open collar, confident posture, one hand holding jacket lapel, one hand in pocket. {argument name="atmosphere" default="Subtle smoke"} surrounding the subject, dramatic cinematic lighting, premium editorial photography, realistic skin texture, sharp eyes, luxury brand advertisement aesthetic, ultra-high detail, soft volumetric haze, dark blue-black background, shallow depth of field, 8K quality.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780474193238_tkoopp_HJ0hMZJaEAAvi8z.jpg" width="600" alt="Profile / Avatar - Athletic Executive Studio Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780474193203_pt203s_HJ0hMZhakAA0_w7.jpg" width="600" alt="Profile / Avatar - Athletic Executive Studio Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Johnn](https://x.com/john_my07)
-- **Source:** [Twitter Post](https://x.com/john_my07/status/2061840704641642774)
-- **Published:** June 2, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=23707)**
-
----
-
-### No. 2: Profile / Avatar - Premium Editorial Studio Portrait
+### No. 1: Profile / Avatar - Premium Editorial Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -738,7 +698,7 @@ Shot on Sony A7 IV, 50mm lens, f/2.2, photorealistic, ultra detailed, high-end c
 
 ---
 
-### No. 3: Profile / Avatar - Custom Chibi Sticker Pack
+### No. 2: Profile / Avatar - Custom Chibi Sticker Pack
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -844,7 +804,7 @@ Studio-quality illustration, highly detailed, polished, professional sticker des
 
 ---
 
-### No. 4: Profile / Avatar - Elegant Evening Lounge Portrait
+### No. 3: Profile / Avatar - Elegant Evening Lounge Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -884,7 +844,7 @@ Ultra-realistic lifestyle portrait of a {argument name="hair style" default="you
 
 ---
 
-### No. 5: Profile / Avatar - Executive Studio Portrait
+### No. 4: Profile / Avatar - Executive Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -926,7 +886,7 @@ A professional prompt for generating detailed, magazine-quality corporate portra
 
 ---
 
-### No. 6: Profile / Avatar - European Coastal Village Cinematic Portrait
+### No. 5: Profile / Avatar - European Coastal Village Cinematic Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -960,7 +920,7 @@ A hyper-realistic, cinematic portrait of a {argument name="subject" default="bea
 
 ---
 
-### No. 7: Profile / Avatar - Photorealistic Image Restoration Prompt
+### No. 6: Profile / Avatar - Photorealistic Image Restoration Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -993,7 +953,7 @@ Preserve as much of my image as possible and make it photorealistic
 
 ---
 
-### No. 8: Profile / Avatar - Athletic Man Lakeside Resort Wear Portrait
+### No. 7: Profile / Avatar - Athletic Man Lakeside Resort Wear Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1026,7 +986,7 @@ An athletic young man stands casually facing the camera, his weight shifted as h
 
 ---
 
-### No. 9: Profile / Avatar - Introspective Sunlit Window Portrait
+### No. 8: Profile / Avatar - Introspective Sunlit Window Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1060,7 +1020,7 @@ A medium close-up portrait photograph captures a {argument name="subject" defaul
 
 ---
 
-### No. 10: Profile / Avatar - Alt-Pop Celebrity Portrait Style
+### No. 9: Profile / Avatar - Alt-Pop Celebrity Portrait Style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1094,7 +1054,7 @@ An edgy and moody alt-pop aesthetic prompt inspired by Billie Eilish, featuring 
 
 ---
 
-### No. 11: Profile / Avatar - Professional Studio Male Portraits
+### No. 10: Profile / Avatar - Professional Studio Male Portraits
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1133,7 +1093,7 @@ Professional studio portrait of a man in his mid-30s, short dark brown hair swep
 
 ---
 
-### No. 12: Profile / Avatar - Professional Creative Portrait in Teal Chair
+### No. 11: Profile / Avatar - Professional Creative Portrait in Teal Chair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1167,7 +1127,7 @@ A professional, high-resolution portrait of a {argument name="subject" default="
 
 ---
 
-### No. 13: Profile / Avatar - Human-Pet Split Face Portrait
+### No. 12: Profile / Avatar - Human-Pet Split Face Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1201,7 +1161,7 @@ Use the exact same face from the reference image and generate a photorealistic c
 
 ---
 
-### No. 14: Profile / Avatar - Ultra-Realistic Bedroom Selfie Portrait
+### No. 13: Profile / Avatar - Ultra-Realistic Bedroom Selfie Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1248,7 +1208,7 @@ Camera & Composition: Close-up to medium framing, slight low-angle selfie perspe
 
 ---
 
-### No. 15: Profile / Avatar - Premium Studio Celebrity Portrait
+### No. 14: Profile / Avatar - Premium Studio Celebrity Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1282,7 +1242,7 @@ A professional, high-end studio portrait of a {argument name="lookalike" default
 
 ---
 
-### No. 16: Profile / Avatar - Luxury Whiskey Bar Introspective Portrait
+### No. 15: Profile / Avatar - Luxury Whiskey Bar Introspective Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1339,7 +1299,7 @@ Ultra-realistic, cinematic portrait, luxury lounge aesthetic, moody atmosphere, 
 
 ---
 
-### No. 17: Profile / Avatar - Hyper-Realistic Western Editorial Photography
+### No. 16: Profile / Avatar - Hyper-Realistic Western Editorial Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1385,7 +1345,7 @@ A hyper-realistic high-resolution full-frame photograph of {argument name="celeb
 
 ---
 
-### No. 18: Profile / Avatar - Monochromatic Amber Studio Portraits
+### No. 17: Profile / Avatar - Monochromatic Amber Studio Portraits
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1427,7 +1387,7 @@ A striking, front-facing studio portrait of a woman with a sleek blonde bob hair
 
 ---
 
-### No. 19: Profile / Avatar - Coastal Full Body Drone Shot
+### No. 18: Profile / Avatar - Coastal Full Body Drone Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1458,6 +1418,40 @@ Make a photo without editing portrait face, realistic male face, {argument name=
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=23410)**
+
+---
+
+### No. 19: Profile / Avatar - Sacred Geometry Halo Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+This prompt creates an ultra-realistic studio portrait of a man framed by a glowing golden-white 'halo' of light, emphasizing authoritative expressions and cinematic quality.
+
+#### 📝 Prompt
+
+```
+Use the exact same face from the reference image and Ultra realistic close-up studio portrait headshot of an {argument name="subject" default="American white man"} with sharp jawline and defined facial features, dark hair, intense eyes. Shot from mid-chest up. Background Element: a perfect glowing circle of {argument name="halo color" default="warm golden-white"} light positioned precisely behind his head like a sacred halo — the circle is made of soft continuous light tube, glowing from within, creating a luminous ring that perfectly frames his face and head. The circle casts a warm golden glow onto the background and subtly wraps around his cheekbones and jaw. Face lit with large octabox from slightly above-left creating warm skin tones with sharp facial definition. His silhouette perfectly centered within the glowing circle. Wearing a {argument name="clothing" default="black turtleneck"}. Background: deep matte black seamless with only the glowing circle visible. Expression: direct commanding gaze, quiet authority. Sacred, cinematic, powerful. "OzairAI" faintly engraved at the bottom of the circle like a studio signature. Vertical 9:13 format. Ultra photorealistic, 8K, no text overlays, cinematic color grading.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780301404709_62qox9_HJqDKU4bMAAiuwM.jpg" width="600" alt="Profile / Avatar - Sacred Geometry Halo Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **Source:** [Twitter Post](https://x.com/Ozayrr_irl/status/2061104013022761211)
+- **Published:** May 31, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=23402)**
 
 ---
 
@@ -4786,7 +4780,41 @@ Captured in the style of a premium fashion campaign for a luxury lifestyle brand
 
 ---
 
-### No. 97: E-commerce Main Image - Hyper-Realistic Character Keychain
+### No. 97: Product Marketing - Classical Garden Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A detailed portrait of a woman in an elegant South Asian suit standing on a cobblestone pathway in a classical landscaped garden.
+
+#### 📝 Prompt
+
+```
+A dynamic, full-body portrait photograph of a young woman standing confidently in a beautifully landscaped classical garden setting,  9:16 . She has a sleek high bun hairstyle and wears dark, stylish sunglasses and a delicate pendant necklace with matching stud earrings. Her attire is an intricate and elegant {argument name="outfit color" default="dusty rose-pink"} traditional South Asian suit (kameez, trousers, and dupatta). The kameez is richly decorated with tone-on-tone embroidery and intricate lace-work on the neckline and large cuff sleeves, and features unique floral cut-out patterns on the scalloped hem and side slits. A matching sheer dupatta with floral appliqué is draped gracefully over her shoulders. She wears clear high heels with distinctive large crystal embellishments on the toe. Her hands, clasped in front, display multiple silver rings. She stands centered on a winding cobblestone garden pathway, looking directly at the viewer. The background is a meticulously maintained garden under a bright, partly cloudy sky, with extensive flower beds of roses, lavender, and other colorful blooms. In the distance, a large, ornate classical stone archway stands at the end of a long perspective path, with manicured lawns and a water lily pond to her right. A wrought-iron and wood garden bench is positioned on the grass nearby. Large, mature oak trees with expansive leafy branches frame the entire scene under natural, soft daylight. The cobblestone path is detailed and textured, leading towards the distant elements. The focus is sharp on the woman and her attire, with a pleasant, detailed depth in the garden background.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1780474205970_bmoiwi_HJxWGxcWYAAO95S.jpg" width="600" alt="Product Marketing - Classical Garden Fashion Portrait - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [liana](https://x.com/Lianaalane)
+- **Source:** [Twitter Post](https://x.com/Lianaalane/status/2061617413385601241)
+- **Published:** June 2, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=23730)**
+
+---
+
+### No. 98: E-commerce Main Image - Hyper-Realistic Character Keychain
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4838,7 +4866,7 @@ Create a {argument name="character theme" default="anime, video game, movie,..."
 
 ---
 
-### No. 98: E-commerce Main Image - Kashmiri Samawar Luxury Photography
+### No. 99: E-commerce Main Image - Kashmiri Samawar Luxury Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4890,7 +4918,7 @@ Ultra detailed luxury product photography of an {argument name="product" default
 
 ---
 
-### No. 99: E-commerce Main Image - Premium Dessert Commercial Layout
+### No. 100: E-commerce Main Image - Premium Dessert Commercial Layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4935,7 +4963,7 @@ A complex modular prompt for commercial dessert photography featuring caramel sp
 
 ---
 
-### No. 100: E-commerce Main Image - Elegant Interior Staircase Portrait
+### No. 101: E-commerce Main Image - Elegant Interior Staircase Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4975,7 +5003,7 @@ The scene features a woman with {argument name="hair style" default="short blond
 
 ---
 
-### No. 101: E-commerce Main Image - Minimalist T-Shirt Mockup
+### No. 102: E-commerce Main Image - Minimalist T-Shirt Mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5009,7 +5037,7 @@ A {argument name="clothing item" default="white t-shirt"} mockup is displayed on
 
 ---
 
-### No. 102: E-commerce Main Image - Urban Streetwear Fashion Collage Poster
+### No. 103: E-commerce Main Image - Urban Streetwear Fashion Collage Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5043,7 +5071,7 @@ A Modern urban {argument name="fashion style" default="fashion collage poster"},
 
 ---
 
-### No. 103: E-commerce Main Image - Minimalist Product Photography on Stone
+### No. 104: E-commerce Main Image - Minimalist Product Photography on Stone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5077,7 +5105,7 @@ A professional prompt for generating realistic, elegant {argument name="product 
 
 ---
 
-### No. 104: E-commerce Main Image - Realistic Skincare Advertisement Photography
+### No. 105: E-commerce Main Image - Realistic Skincare Advertisement Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5111,7 +5139,7 @@ Ultra realistic skincare advertisement photo of a beautiful {argument name="subj
 
 ---
 
-### No. 105: E-commerce Main Image - Macro Beauty Photography Portrait
+### No. 106: E-commerce Main Image - Macro Beauty Photography Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5145,7 +5173,7 @@ Ultra-realistic 16k macro beauty photography, profile view of {argument name="su
 
 ---
 
-### No. 106: E-commerce Main Image - Minimalist Water Commercial Photography
+### No. 107: E-commerce Main Image - Minimalist Water Commercial Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5179,7 +5207,7 @@ Minimalist commercial ad featuring oversized {argument name="brand" default="SNO
 
 ---
 
-### No. 107: E-commerce Main Image - Redhead Studio Swimsuit Portrait
+### No. 108: E-commerce Main Image - Redhead Studio Swimsuit Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5218,7 +5246,7 @@ A structured prompt for a full-body studio portrait. The subject is a young woma
 
 ---
 
-### No. 108: E-commerce Main Image - Mediterranean Salad Food Photography
+### No. 109: E-commerce Main Image - Mediterranean Salad Food Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5268,7 +5296,7 @@ High-end commercial food photography prompt for a Mediterranean salad captured m
 
 ---
 
-### No. 109: E-commerce Main Image - Luxury Makeup Palette Advertisement
+### No. 110: E-commerce Main Image - Luxury Makeup Palette Advertisement
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5302,7 +5330,7 @@ A professional advertisement for "{argument name="brand" default="AM Cosmetics"}
 
 ---
 
-### No. 110: E-commerce Main Image - Cinematic Cosmetic Product Photography
+### No. 111: E-commerce Main Image - Cinematic Cosmetic Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5336,7 +5364,7 @@ A front-facing product photo of a {argument name="product" default="white cosmet
 
 ---
 
-### No. 111: E-commerce Main Image - Luxury Cosmetic Brand Infographic
+### No. 112: E-commerce Main Image - Luxury Cosmetic Brand Infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5370,7 +5398,7 @@ A professional cosmetic brand infographic in a soft aesthetic style. The color p
 
 ---
 
-### No. 112: E-commerce Main Image - Luxury Skincare Product Photography
+### No. 113: E-commerce Main Image - Luxury Skincare Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5404,7 +5432,7 @@ High-resolution product photography for a luxurious skincare collection by "{arg
 
 ---
 
-### No. 113: E-commerce Main Image - Studio Fashion Portrait with Abstract Pattern
+### No. 114: E-commerce Main Image - Studio Fashion Portrait with Abstract Pattern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5438,7 +5466,7 @@ A professional studio photography prompt for a woman in a colorful abstract matc
 
 ---
 
-### No. 114: E-commerce Main Image - Cozy English Cottage Interior with Laptop
+### No. 115: E-commerce Main Image - Cozy English Cottage Interior with Laptop
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5478,7 +5506,7 @@ Camera: Sony A7R V, 50mm f/1.4 lens, 8K sharpness, natural skin and fabric textu
 
 ---
 
-### No. 115: E-commerce Main Image - Ultra-Realistic Boutique Mirror Selfie
+### No. 116: E-commerce Main Image - Ultra-Realistic Boutique Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5606,7 +5634,7 @@ A detailed technical prompt for generating a hyper-realistic smartphone mirror s
 
 ---
 
-### No. 116: Game Asset - Chibi Pixar-Style Studio Composition
+### No. 117: Game Asset - Chibi Pixar-Style Studio Composition
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5640,7 +5668,7 @@ Ultra-realistic fashion editorial portrait, pixar-inspired 3D cute stylish perso
 
 ---
 
-### No. 117: Game Asset - Dynamic Mid-Air Explosion Physics
+### No. 118: Game Asset - Dynamic Mid-Air Explosion Physics
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5680,7 +5708,7 @@ dynamic mid-air explosion effect, {argument name="target" default="object"} brea
 
 ---
 
-### No. 118: Game Asset - Retro 8-Bit Pixel Art Persephone
+### No. 119: Game Asset - Retro 8-Bit Pixel Art Persephone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5714,7 +5742,7 @@ A {argument name="style" default="retro-style 8-bit"} {argument name="subject" d
 
 ---
 
-### No. 119: Game Asset - Cinematic Cosmic Energy Portrait
+### No. 120: Game Asset - Cinematic Cosmic Energy Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5756,47 +5784,13 @@ Style: ultra-realistic, cinematic fantasy, sci-fi celestial aesthetic, hyper det
 
 ---
 
-### No. 120: Game Asset - Knitted Yarn Space Machine
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A creative stylization prompt that transforms mechanical subjects into cozy, handcrafted 3D-knitted plush models with macro-photography lighting.
-
-#### 📝 Prompt
-
-```
-Goal: Transform {argument name="input" default="Input A"} into a "Knitted Yarn" version. Rules: - Spatial Fidelity: Reconstruct the input using "Stitch-Pattern displacement." - Materiality: "Fuzzy Wool" fibers with "SSS (Subsurface Scattering)." Every character is a "3D-knitted plush." - Technical Spec: Blender Hair particles for "yarn fuzz." Material blend: "Diffused Cotton." - Lighting: "Warm Domestic Softbox" lighting to emphasize the softness of the fabric. - Rendering: Macro-photography style, very shallow depth of field. Output: ONE image, cozy and tactile.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779954405561_wbyzva_HJNEh78XAAAwD-E.jpg" width="600" alt="Game Asset - Knitted Yarn Space Machine - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Gadgetify](https://x.com/Gdgtify)
-- **Source:** [Twitter Post](https://x.com/Gdgtify/status/2059653855919407411)
-- **Published:** May 27, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=22793)**
-
----
-
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 13954 more prompts not shown here
+### 🎯 13953 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5859,6 +5853,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-03T09:30:44.533Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-03T13:27:26.366Z</sub>
 
 </div>
